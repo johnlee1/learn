@@ -1,4 +1,4 @@
-### What is an operating system?
+### Operating system?
 An operating system is software that abstracts and arbitrates the underlying hardware system.
 
 ### User Mode
