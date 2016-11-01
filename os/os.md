@@ -1,0 +1,1 @@
+An operating system is software at abstracts and arbitrates the underlying hardware system.
