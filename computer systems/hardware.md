@@ -12,7 +12,7 @@ There are only a few of these simple operations, and they revolve around main me
 + Operate: Copy the contents of two registers to the ALU, perform an arithmetic operation on the two words, and store the result in a register, overwriting the previous contents of that register.
 + Jump: Extract a word from the instruction itself and copy that word into the program counter (PC), overwriting the previous value of the PC.
 
-We say that a processor appears to be a simple implementation of its instruction set architecture, but in fact modern processors use far more complex mechanisms to speed up program execution. Thus, we can distinguish the pro- cessor’s instruction set architecture, describing the effect of each machine-code instruction, from its microarchitecture, describing how the processor is actually implemented. 
+We say that a processor appears to be a simple implementation of its in- struction set architecture, but in fact modern processors use far more complex mechanisms to speed up program execution. Thus, we can distinguish the pro- cessor’s instruction set architecture, describing the effect of each machine-code instruction, from its microarchitecture, describing how the processor is actually implemented. 
 
 ### Main Memory 
 The main memory is a temporary storage device that holds both a program and the data it manipulates while the processor is executing the program. Physically, main memory consists of a collection of dynamic random access memory (DRAM) chips. Logically, memory is organized as a linear array of bytes, each with its own unique address (array index) starting at zero. In general, each of the machine instructions that constitute a program can consist of a variable number of bytes.
@@ -20,7 +20,7 @@ The main memory is a temporary storage device that holds both a program and the 
 ### Secondary Storage
 Secondary storage is storage that is not directly connected to the CPU. The most common case of secondary storage is the hard disk.
 
-### Input/Output Devices 
+### Input/Output (I/O) Devices 
 Input/output devices are the system’s connection to the external world. Examples include a keyboard and mouse for user input, a display for user output, and a disk drive (or simply disk) for long-term storage of data and programs.
 
 ### Caches

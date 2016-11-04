@@ -1,4 +1,4 @@
-### Operating System
+### Operating system
 An operating system is software that abstracts and arbitrates the underlying hardware system. Abstracts means to simplify what the hardware actually looks like. Arbitrates means to manage, to oversee, and to control the hardware use.
 
 We can think of the operating system as a layer of software interposed between the application program and the hardware. All attempts by an application program to manipulate the hardware must go through the operating system.
