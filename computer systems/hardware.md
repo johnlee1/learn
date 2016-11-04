@@ -20,7 +20,7 @@ The main memory is a temporary storage device that holds both a program and the 
 ### Secondary Storage
 Secondary storage is storage that is not directly connected to the CPU. The most common case of secondary storage is the hard disk.
 
-### Input/Output (I/O) Devices 
+### Input/Output Devices 
 Input/output devices are the system’s connection to the external world. Examples include a keyboard and mouse for user input, a display for user output, and a disk drive (or simply disk) for long-term storage of data and programs.
 
 ### Caches
