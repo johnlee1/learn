@@ -1,1 +1,1 @@
-Personal notes while learning about various subjects.
+Notes while learning about various subjects.
