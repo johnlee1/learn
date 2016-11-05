@@ -57,7 +57,7 @@ In order to manage the CPU, OS must be able to:
 + dispatch
  * dispatch process and switch into its context
  
-### Inter-Process Communication
+### Inter-Process Communication (IPC)
 + message-passing
  * OS provides communication channel, like shared buffer
  * processes message to/from channel
@@ -68,3 +68,5 @@ In order to manage the CPU, OS must be able to:
  * processes directly read/write from this memory
  * beneficial because OS is out of the way (so no overheads from the OS)
  * the downside is that without OS, there are no fixed or well-defined APIs of how the shared memory region is used
+
+With shared-memory based communication the individual data exchange is cheap because they don't require that the data is copied in and out of the kernel. However, the actual operation of mapping memory between two processes is expensive. It only makes sense to do shared-memory based communication if the setup cost can be amortized across a sufficiently large number of messages.
