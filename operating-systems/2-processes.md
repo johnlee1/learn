@@ -1,13 +1,13 @@
-### Application
+## Application
 An application is a program. It is a static entity.
 
-### Process
+## Process
 When an application is launched, it is loaded in memory and starts executing. A process is the state of a program when executing. It is an active entity. A single-core CPU handles one process at a time. 
 
-### Address Space
+## Address Space
 A process encapsulates all of the state of a running application. Every element of a process state has to be uniquely identified by its address. An OS abstraction used to encapsulate all of the process state is an address space. An address space is defined by a range of addresses. Different types of process state will appear in different regions of the address space. These addresses are virtual addresses. They do not have to correspond to actual locations in the physical memory.
 
-### Types of Address Space state
+## Types of Address Space state
 + text and data
   * static data when process first loads
 + heap
@@ -15,16 +15,16 @@ A process encapsulates all of the state of a running application. Every element 
 + stack
   * dynamic part of address space state that grows and shrinks as a LIFO queue
   
-### Page Tables
+## Page Tables
 A page table stores the mapping between virtual addresses and physical addresses.
 
-### Process Control Block
+## Process Control Block
 A process control block is a data structure in the operating system kernel containing the information needed to manage a particular process. It can be said that the set of the PCBs defines the current state of the operating system.
 
-### Context Switch
+## Context Switch
 A context switch is the mechanism used by an operating system to switch from the context of one process to the context of another process. Context switches are usually expensive because of the number of cycles that have to be executed to load and store all the values of the PCBs to and from memory, and because it can create a a cold cache.
 
-### Process states
+## Process states
 + new
  * the process is being created
 + ready
@@ -36,7 +36,7 @@ A context switch is the mechanism used by an operating system to switch from the
 + termianted
  * the process has finished execution
  
-### Process creation
+## Process creation
 + fork
  * copies the parent PCB into new child PCB
  * child continues execution at instruction immediately after fork
@@ -46,7 +46,7 @@ A context switch is the mechanism used by an operating system to switch from the
  
 The fork call basically makes a duplicate of the current process, identical in almost every way. The exec call is a way to basically replace the entire current process with a new program. It loads the program into the current process space and runs it from the entry point. So, fork and exec are often used in sequence to get a new program running as a child of a current process.
 
-### CPU scheduler
+## CPU scheduler
 A CPU scheduler is an operating system component that manages how processes use CPU resources. It determines which one of the currently ready processes will be dispatched to the CPU to start running, and how long it should run for.
 
 In order to manage the CPU, OS must be able to:
@@ -57,7 +57,7 @@ In order to manage the CPU, OS must be able to:
 + dispatch
  * dispatch process and switch into its context
  
-### Inter-Process Communication (IPC)
+## Inter-Process Communication (IPC)
 + message-passing
  * OS provides communication channel, like shared buffer
  * processes message to/from channel
