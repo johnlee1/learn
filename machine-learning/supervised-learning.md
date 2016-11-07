@@ -13,3 +13,6 @@ In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm used t
 
 ## Regression
 Regression is concerned with modelling the relationship between variables that is iteratively refined using a measure of error in the predictions made by the model. Use **cross-validation** to avoid over-fitting.
+
+## Support Vector Machines
+A Support Vector Machine (SVM) is a classifier formally defined by a separating hyperplane. In other words, given labeled training data, the algorithm outputs an optimal hyperplane which categorizes new examples.
