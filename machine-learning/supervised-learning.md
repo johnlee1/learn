@@ -12,3 +12,4 @@ In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm used t
 + Recurse on subsets using remaining attributes.
 
 ## Regression
+Regression is concerned with modelling the relationship between variables that is iteratively refined using a measure of error in the predictions made by the model. Use **cross-validation** to avoid over-fitting.
