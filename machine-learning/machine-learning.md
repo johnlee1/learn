@@ -4,5 +4,3 @@ Machine learning is the study of algorithms that improve their performance at so
 **Hypothesis Function**    
 **Loss Function**    
 **Maximum Likelihood Estimation**   
-**Restriction Bias**     
-**Preference Bias**     
