@@ -3,7 +3,6 @@ Machine learning is the study of algorithms that improve their performance at so
 
 **Hypothesis Function**    
 **Loss Function**    
-**Gradient Descent**    
 **Maximum Likelihood Estimation**   
 **Restriction Bias**     
 **Preference Bias**     
