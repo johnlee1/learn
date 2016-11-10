@@ -33,3 +33,9 @@ A sigmoid function is a mathematical function having an "S" shaped curve (sigmoi
 Backpropagation, an abbreviation for "backward propagation of errors", is a common method of training artificial neural networks used in conjunction with an optimization method such as gradient descent. It calculates the gradient of a loss function with respect to all the weights in the network, so that the gradient is fed to the optimization method which in turn uses it to update the weights, in an attempt to minimize the loss function.
 
 Backpropagation requires a known, desired output for each input value in order to calculate the loss function gradient. It is a generalization of the delta rule to multi-layered feedforward networks, made possible by using the chain rule to iteratively compute gradients for each layer. Backpropagation requires that the activation function used by the artificial neurons (or "nodes") be differentiable.
+
+#### Restriction Bias
+The restriction bias tells you something about the representational power of the data structure you are using and the set of hypotheses that you are willing to consider. Neural networks can represent boolean, continuous, and arbitrary functions. The complexity of a network 
+
+#### Preference Bias
+The preference bias tells you something about the algorithm that tells you why the algorithm prefers one representation over another. For neural networks, if the weights get really big, that could lead to overfitting because it lets you represent arbitrary complex functions. Neural networks implement a kind of bias that prefer simpler explanations. This is reminiscent of Occam's Razor.
