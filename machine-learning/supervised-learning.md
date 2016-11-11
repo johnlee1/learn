@@ -39,3 +39,26 @@ The restriction bias tells you something about the representational power of the
 
 #### Preference Bias
 The preference bias tells you something about the algorithm that tells you why the algorithm prefers one representation over another. For neural networks, if the weights get really big, that could lead to overfitting because it lets you represent arbitrary complex functions. Neural networks implement a kind of bias that prefer simpler explanations. This is reminiscent of Occam's Razor.
+
+## Computational Learning Theory
+In computer science, computational learning theory (or just learning theory) is a subfield of Artificial Intelligence devoted to studying the design and analysis of machine learning algorithms. It has three important components:
++ defining learning components
++ showing specific algorithms work
++ show these problems are fundamentally hard
+
+#### Computational Complexity
+How much computational effort needed for a learner to conver to the answer
+
+#### Sample Complexity
+In the case of a batch (we have a training set we can look at all at once), sample complexity is how many training examples are needed for a learner to create a successful hypothesis.
+
+#### Mistake Bounds
+In an online setting (data becomes available in a sequential order and is used to update our best predictor for future data at each step), mistake bounds is how many misclassifications can a learner make over an infinite run.
+
+#### PAC Learning
+In computational learning theory, probably approximately correct learning (PAC learning) is a framework for mathematical analysis of machine learning. In this framework, the learner receives samples and must select a generalization function (called the hypothesis) from a certain class of possible functions. The goal is that, with high probability (the "probably" part), the selected function will have low generalization error (the "approximately correct" part). The learner must be able to learn the concept given any arbitrary approximation ratio, probability of success, or distribution of the samples.
+
+An important innovation of the PAC framework is the introduction of computational complexity theory concepts to machine learning. In particular, the learner is expected to find efficient functions (time and space requirements bounded to a polynomial of the example size), and the learner itself must implement an efficient procedure (requiring an example count bounded to a polynomial of the concept size, modified by the approximation and likelihood bounds).
+
+## VC Dimensions
+In statistical learning theory and computational learning theory, the VC dimension (for Vapnik–Chervonenkis dimension) is a measure of the capacity (complexity, expressive power, richness, or flexibility) of a space of functions that can be learned by a statistical classification algorithm. It is defined as the cardinality of the largest set of points that the algorithm can shatter (label in all possible ways). In other words, it is the size of the largest set of inputs that the hypothesis class can shatter. 
