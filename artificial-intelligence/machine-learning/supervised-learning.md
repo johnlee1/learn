@@ -54,6 +54,12 @@ The k-Nearest Neighbors algorithm (or k-NN for short) is a non-parametric method
 #### Curse of Dimensionality
 As the number of features or dimensions grows, the amount of data we need to generalize accurately also grows exponentially.
 
+## Ensemble Learning
+Ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
+
+#### Boosting
+Boosting involves incrementally building an ensemble by training each new model instance to emphasize the training instances that previous models mis-classified.
+
 ## Computational Learning Theory
 In computer science, computational learning theory (or just learning theory) is a subfield of Artificial Intelligence devoted to studying the design and analysis of machine learning algorithms. It has three important components:
 + defining learning components
