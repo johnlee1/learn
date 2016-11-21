@@ -26,9 +26,6 @@ The perceptron is an algorithm for supervised learning of binary classifiers (fu
 #### Gradient Descent (unthresholded)
 Gradient descent is a first-order iterative optimization algorithm. It is more robust in cases that do not have linear separability. Converges to local optimum.
 
-#### Sigmoid Function
-A sigmoid function is a mathematical function having an "S" shaped curve (sigmoid curve).
-
 #### Backpropagation
 Backpropagation, an abbreviation for "backward propagation of errors", is a common method of training artificial neural networks used in conjunction with an optimization method such as gradient descent. It calculates the gradient of a loss function with respect to all the weights in the network, so that the gradient is fed to the optimization method which in turn uses it to update the weights, in an attempt to minimize the loss function.
 
@@ -48,6 +45,14 @@ The k-Nearest Neighbors algorithm (or k-NN for short) is a non-parametric method
 
 + In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
 + In k-NN regression, the output is the property value for the object. This value is the average of the values of its k nearest neighbors.
+
+#### Preference Bias
++ locality: near points are similar 
++ smoothness: by choosing to average and by choosing to look at points that are similar to one another we are expecting functions to behave smoothly
++ all features matter equally
+
+#### Curse of Dimensionality
+As the number of features or dimensions grows, the amount of data we need to generalize accurately also grows exponentially.
 
 ## Computational Learning Theory
 In computer science, computational learning theory (or just learning theory) is a subfield of Artificial Intelligence devoted to studying the design and analysis of machine learning algorithms. It has three important components:
