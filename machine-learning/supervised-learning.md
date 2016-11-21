@@ -40,6 +40,15 @@ The restriction bias tells you something about the representational power of the
 #### Preference Bias
 The preference bias tells you something about the algorithm that tells you why the algorithm prefers one representation over another. For neural networks, if the weights get really big, that could lead to overfitting because it lets you represent arbitrary complex functions. Neural networks implement a kind of bias that prefer simpler explanations. This is reminiscent of Occam's Razor.
 
+## Instance-based Learning
+Instance-based learning is a family of learning algorithms that, instead of performing explicit generalization, compares new problem instances with instances seen in training, which have been stored in memory.
+
+#### K-Nearest Neighbors
+The k-Nearest Neighbors algorithm (or k-NN for short) is a non-parametric method used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
+
++ In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
++ In k-NN regression, the output is the property value for the object. This value is the average of the values of its k nearest neighbors.
+
 ## Computational Learning Theory
 In computer science, computational learning theory (or just learning theory) is a subfield of Artificial Intelligence devoted to studying the design and analysis of machine learning algorithms. It has three important components:
 + defining learning components
