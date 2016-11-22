@@ -14,9 +14,6 @@ In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm used t
 ## Regression
 Regression is concerned with modelling the relationship between variables that is iteratively refined using a measure of error in the predictions made by the model. Use **cross-validation** to avoid over-fitting.
 
-## Support Vector Machines
-A Support Vector Machine (SVM) is a classifier formally defined by a separating hyperplane. In other words, given labeled training data, the algorithm outputs an optimal hyperplane which categorizes new examples.
-
 ## Neural Networks
 Neural Networks are a computational approach which is based on a large collection of neural units loosely modeling the way the brain solves problems with large clusters of biological neurons connected by axons. Each neural unit is connected with many others, and links can be enforcing or inhibitory in their effect on the activation state of connected neural units. Each individual neural unit may have a summation function which combines the values of all its inputs together. There may be a threshold function or limiting function on each connection and on the unit itself such that it must surpass it before it can propagate to other neurons. These systems are self-learning and trained rather than explicitly programmed and excel in areas where the solution or feature detection is difficult to express in a traditional computer program.
 
@@ -53,6 +50,20 @@ The k-Nearest Neighbors algorithm (or k-NN for short) is a non-parametric method
 
 #### Curse of Dimensionality
 As the number of features or dimensions grows, the amount of data we need to generalize accurately also grows exponentially.
+
+## Ensemble Learning
+Ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
+
+#### Boosting
+Boosting involves incrementally building an ensemble by training each new model instance to emphasize the training instances that previous models misclassified.
+
+## Kernel Method
+Kernel methods are a class of algorithms for pattern analysis. The general task of pattern analysis is to find and study general types of relations (for example clusters, rankings, principal components, correlations, classifications) in datasets. For many algorithms that solve these tasks, the data in raw representation have to be explicitly transformed into feature vector representations via a user-specified feature map: in contrast, kernel methods require only a user-specified kernel, i.e., a similarity function over pairs of data points in raw representation.
+
+Kernel methods owe their name to the use of kernel functions, which enable them to operate in a high-dimensional, implicit feature space without ever computing the coordinates of the data in that space, but rather by simply computing the inner products between the images of all pairs of data in the feature space. This operation is often computationally cheaper than the explicit computation of the coordinates. This approach is called the "kernel trick". 
+
+#### Support Vector Machines
+A Support Vector Machine (SVM) is a classifier formally defined by a separating hyperplane. In other words, given labeled training data, the algorithm outputs an optimal hyperplane which categorizes new examples.
 
 ## Computational Learning Theory
 In computer science, computational learning theory (or just learning theory) is a subfield of Artificial Intelligence devoted to studying the design and analysis of machine learning algorithms. It has three important components:
