@@ -18,16 +18,20 @@ A mathematical theory that deals with aggregation of individual preferences.
     + m-1 rounds
     + in each round, alternative with least plurality votes is eliminated 
     + alternative left standing is the winner
+
 #### Condorcet Winner
 + condorcet winner beats every other alternative in pairwise election
 + condorcet paradox = cycle in majority preferences
+
 #### Condorcet Consistency
 + condorcet consistency = select a condorcet winner if one exists
+
 #### Voting Rules that satisfy Condorcet Criterion
 + Copeland: alternative's score is number of alternatives it beats in pairwise election 
 + Dogson's Rule
     + dogson score of x = the number of swaps between adjacent alternatives needed to make x a condorcet winner
     + dogson's rule: select alternative that minimizes dogson score
+
 #### Condorcet's Noise Model
 + true ranking of the alternatives
 + voting pairwise on alternatives, each comparison is correct with probability 
