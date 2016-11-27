@@ -30,4 +30,4 @@ A mathematical theory that deals with aggregation of individual preferences.
     + dogson's rule: select alternative that minimizes dogson score
 #### Condorcet's Noise Model
 + true ranking of the alternatives
-+ voting pairwise on alternatives, each comparison is correct with probability 
++ voting pairwise on alternatives, each comparison is correct with probability
