@@ -17,4 +17,8 @@ Notes while learning about various subjects.
 #### Devops
   + https://martinfowler.com/bliki/DevOpsCulture.html  
   
+#### React/Redux
+  + https://egghead.io/courses/react-fundamentals
+  + https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+  
   
