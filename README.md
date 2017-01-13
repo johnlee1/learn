@@ -1,12 +1,12 @@
 Notes while learning about various subjects.
 
-### Mathematics
+## Mathematics
 
 #### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 
-### Software Engineering
+## Software Engineering
 
 #### NoSql
   + https://www.youtube.com/watch?v=qI_g07C_Q5I  
