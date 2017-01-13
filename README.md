@@ -1,6 +1,20 @@
 Notes while learning about various subjects.
 
-## Mathematics
-Linear Algebra
+### Mathematics
+
+#### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
+
+### Software Engineering
+
+#### NoSql
+  + https://www.youtube.com/watch?v=qI_g07C_Q5I  
+  
+#### Serverless Architecture
+  + https://martinfowler.com/articles/serverless.html
+  
+#### Devops
+  + https://martinfowler.com/bliki/DevOpsCulture.html  
+  
+  
