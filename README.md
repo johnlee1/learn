@@ -6,6 +6,12 @@ Notes while learning about various subjects.
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 
+## Computer Science
+
+#### Functional Programming
+  + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+
+
 ## Software Engineering
 
 #### NoSql
