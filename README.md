@@ -1,18 +1,21 @@
 Notes while learning about various subjects.
 
-## Mathematics
+# Mathematics
 
 #### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 
-## Computer Science
+# Computer Science
 
 #### Functional Programming
   + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 
 
-## Software Engineering
+# Software Engineering
+
+#### Javascript
+  + https://github.com/getify/You-Dont-Know-JS
 
 #### NoSql
   + https://www.youtube.com/watch?v=qI_g07C_Q5I  
