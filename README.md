@@ -1,5 +1,7 @@
 Notes while learning about various subjects.
 
+Below are helpful references.
+
 # Mathematics
 
 #### Linear Algebra
@@ -13,6 +15,9 @@ Notes while learning about various subjects.
 
 
 # Software Engineering
+
+#### CAP
+  + https://codahale.com/you-cant-sacrifice-partition-tolerance/
 
 #### Javascript
   + https://github.com/getify/You-Dont-Know-JS
