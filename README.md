@@ -39,7 +39,8 @@ Below are helpful references.
 # Misc
 
 #### Economics
-  + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO  
+  + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO
+  + https://www.youtube.com/playlist?list=PLKruweaZqDNcTAPb0nBqGx-Ekl9k9ns-V
   
 #### Film
   + https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A
