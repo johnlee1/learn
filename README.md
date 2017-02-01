@@ -36,3 +36,10 @@ Below are helpful references.
   + https://egghead.io/courses/building-react-applications-with-idiomatic-redux
   
   
+# Misc
+
+#### Economics
+  + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO  
+  
+#### Film
+  + https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A
