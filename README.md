@@ -31,9 +31,6 @@ Below are helpful references.
 #### Devops
   + https://martinfowler.com/bliki/DevOpsCulture.html  
   
-#### React/Redux
-  + https://egghead.io/technologies/react
-  
   
 # Misc
 
