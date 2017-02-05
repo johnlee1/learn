@@ -1,20 +1,22 @@
 Notes while learning about various subjects.
 
+<br/><br/>
+
 Below are helpful references.
 
-# Mathematics
+## Mathematics
 
 #### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 
-# Computer Science
+## Computer Science
 
 #### Functional Programming
   + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 
 
-# Software Engineering
+## Software Engineering
 
 #### CAP
   + https://codahale.com/you-cant-sacrifice-partition-tolerance/
@@ -32,11 +34,8 @@ Below are helpful references.
   + https://martinfowler.com/bliki/DevOpsCulture.html  
   
   
-# Misc
+## Economics
 
-#### Economics
+#### General
   + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO
   + https://www.youtube.com/user/HooverInstitution
-  
-#### Film
-  + https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A
