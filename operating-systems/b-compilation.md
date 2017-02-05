@@ -5,8 +5,8 @@ A programming languages can be compiled, which means that programs are translate
 The steps of compilation are:    
 1. Preprocessing: C is one of several languages that include “preprocessing directives” that take effect before the program is compiled. For example, the #include directive causes the source code from another file to be inserted at the location of the directive.    
 2. Parsing: During parsing, the compiler reads the source code and builds an internal representation of the program, called an “abstract syntax tree.” Errors detected during this step are generally syntax errors.    
-3. Static checking: The compiler checks whether variables and values have the right type, whether functions are called with the right number and type of arguments, etc. Errors detected during this step are sometimes called “static semantic” errors.
-4. Code generation: The compiler reads the internal representation of the program and generates machine code or byte code.
+3. Static checking: The compiler checks whether variables and values have the right type, whether functions are called with the right number and type of arguments, etc. Errors detected during this step are sometimes called “static semantic” errors.   
+4. Code generation: The compiler reads the internal representation of the program and generates machine code or byte code.    
 5. Linking: If the program uses values and functions defined in a library, the compiler has to find the appropriate library and include the required code.     
 6. Optimization: At several points in the process, the compiler can transform the program to generate code that runs faster or uses less space. Most optimizations are simple changes that eliminate obvious waste, but some compilers perform sophisticated analyses and transformations.
 
