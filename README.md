@@ -30,8 +30,9 @@ Below are helpful references.
 #### Serverless Architecture
   + https://martinfowler.com/articles/serverless.html
   
-#### Devops
+#### Devops/SRE
   + https://martinfowler.com/bliki/DevOpsCulture.html  
+  + https://landing.google.com/sre/book/index.html
   
   
 ## Economics
