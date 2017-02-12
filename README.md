@@ -40,3 +40,9 @@ Below are helpful references.
 #### General
   + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO
   + https://www.youtube.com/user/HooverInstitution
+
+
+## Misc
+
+#### Shenzhen: The Silicon Valley of Hardware
+  + https://www.youtube.com/watch?v=SGJ5cZnoodY
