@@ -10,13 +10,10 @@ Below are helpful references.
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 
-## Computer Science
+## Computer Science / Software Engineering
 
 #### Functional Programming
   + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
-
-
-## Software Engineering
 
 #### CAP
   + https://codahale.com/you-cant-sacrifice-partition-tolerance/
@@ -42,7 +39,16 @@ Below are helpful references.
   + https://www.youtube.com/user/HooverInstitution
 
 
+## Design
+
+#### General
+  + https://www.highresolution.design/
+  
+#### Methods
+  + https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez
+
+
 ## Misc
 
-#### Shenzhen: The Silicon Valley of Hardware
+#### Shenzhen: The Silicon Valley of Hardware (Documentary)
   + https://www.youtube.com/watch?v=SGJ5cZnoodY
