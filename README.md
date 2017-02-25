@@ -30,7 +30,9 @@ Below are helpful references.
 #### Devops/SRE
   + https://martinfowler.com/bliki/DevOpsCulture.html  
   + https://landing.google.com/sre/book/index.html
-  
+
+#### Design Patterns
+  + https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
   
 ## Economics
 
