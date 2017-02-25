@@ -48,6 +48,7 @@ Below are helpful references.
   
 #### Methods
   + https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez
+  + https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59
 
 
 ## Misc
