@@ -26,6 +26,7 @@ Below are helpful references.
 
 #### Javascript
   + https://github.com/getify/You-Dont-Know-JS
+  + https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 #### NoSql
   + https://www.youtube.com/watch?v=qI_g07C_Q5I  
