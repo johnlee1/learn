@@ -1,17 +1,17 @@
 Notes while learning about various subjects.
 
-<br/><br/>
+<br/><br/><br/>
 
 Below are helpful references.
 
-</br>
+<br/><br/>
 
 ## Mathematics
 
 #### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-</br>
+<br/><br/>
 
 ## Computer Science / Software Engineering
 
@@ -44,7 +44,7 @@ Below are helpful references.
 #### General Software Engineering
   + Fred Brooks' The Mythical Man-Month
 
-</br>
+<br/><br/>
 
 ## Economics
 
@@ -52,7 +52,7 @@ Below are helpful references.
   + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO
   + https://www.youtube.com/user/HooverInstitution
 
-</br>
+<br/><br/>
 
 ## Design
 
@@ -63,10 +63,19 @@ Below are helpful references.
   + https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez
   + https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59
 
+<br/><br/>
 
-</br>
+## Business
+
+#### Sales Desk
+  + https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.pofkoarbr
+
+<br/><br/>
 
 ## Misc
 
 #### Shenzhen: The Silicon Valley of Hardware (Documentary)
   + https://www.youtube.com/watch?v=SGJ5cZnoodY
+
+#### Writing
+  + https://medium.com/an-idea-for-you/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1#.u3u4bxr89
