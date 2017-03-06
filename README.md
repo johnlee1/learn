@@ -21,8 +21,11 @@ Below are helpful references.
 #### Functional Programming
   + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 
-#### CAP
+#### Distributed Systems
   + https://codahale.com/you-cant-sacrifice-partition-tolerance/
+  + https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+  + https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+  + http://book.mixu.net/distsys/ebook.html
 
 #### Javascript
   + https://github.com/getify/You-Dont-Know-JS
@@ -42,7 +45,8 @@ Below are helpful references.
   + https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
 
 #### General Software Engineering
-  + Fred Brooks' The Mythical Man-Month
+  + The Mythical Man-Month by Fred Brooks
+  + The Pragmatic Progammer by Andy Hunt and Dave Thomas
 
 <br/><br/>
 
@@ -67,7 +71,7 @@ Below are helpful references.
 
 ## Business
 
-#### Sales Desk
+#### Sales Deck
   + https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.pofkoarbr
 
 <br/><br/>
