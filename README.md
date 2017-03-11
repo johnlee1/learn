@@ -70,13 +70,6 @@ Below are helpful references.
 
 <br/><br/>
 
-## Business
-
-#### Sales Deck
-  + https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.pofkoarbr
-
-<br/><br/>
-
 ## Misc
 
 #### Shenzhen: The Silicon Valley of Hardware (Documentary)
@@ -84,3 +77,6 @@ Below are helpful references.
 
 #### Writing
   + https://medium.com/an-idea-for-you/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1#.u3u4bxr89
+
+#### Sales Deck
+  + https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.pofkoarbr
