@@ -45,6 +45,7 @@ Below are helpful references.
   + https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
 
 #### General Software Engineering
+  + Programming Pearls by Jon Bentley
   + The Mythical Man-Month by Fred Brooks
   + The Pragmatic Progammer by Andy Hunt and Dave Thomas
 
