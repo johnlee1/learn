@@ -40,10 +40,10 @@ public class MinHeap {
 	}
 	
 	public int extraMin() {
-      int min = heap[0];
-      heap[1] = heap[heapSize--];
-      siftDown(1);
-      return min;
+		int min = heap[0];
+		heap[1] = heap[heapSize--];
+		siftDown(1);
+		return min;
 	}
 	
 	private void doubleHeapSize() {
@@ -56,14 +56,13 @@ public class MinHeap {
 		int temp = heap[pos];
 		int child;
 
-		for (; 2*pos <= heapSize; pos = child)
-	    {
+		for (; 2*pos <= heapSize; pos = child) {
 			child = 2*pos;
 			if (child != heapSize && heap[child] < heap[child + 1]) child++;
-	        if (heap[child] < temp)  heap[pos] = heap[child];
-	        else
-	        	break;
-	    }
+			if (heap[child] < temp)  heap[pos] = heap[child];
+			else
+				break;
+		}
 		heap[pos] = temp;
 	}
 }
