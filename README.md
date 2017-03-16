@@ -1,4 +1,4 @@
-Notes while learning about various subjects.
+Notes and coding solutions while learning about various subjects.
 
 <br/><br/><br/>
 
