@@ -12,7 +12,7 @@ Below are helpful references.
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 #### Math for CS
-  + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
+  + https://www.youtube.com/playlist?list=PLB7540DEDD482705B
 
 <br/><br/>
 
