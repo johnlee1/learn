@@ -17,6 +17,7 @@ Below are helpful references.
 
 #### Structure and Interpretation of Computer Programs
   + https://www.youtube.com/playlist?list=PLE18841CABEA24090
+  + https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
 
 #### Functional Programming
   + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
