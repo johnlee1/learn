@@ -49,6 +49,7 @@ Below are helpful references.
   + Programming Pearls by Jon Bentley
   + The Mythical Man-Month by Fred Brooks
   + The Pragmatic Progammer by Andy Hunt and Dave Thomas
+  + Cracking the Coding Interview by Gayle Laakmann McDowell
 
 <br/><br/>
 
