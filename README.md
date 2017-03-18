@@ -11,9 +11,6 @@ Below are helpful references.
 #### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-#### Math for CS
-  + https://www.youtube.com/playlist?list=PLB7540DEDD482705B
-
 <br/><br/>
 
 ## Computer Science / Software Engineering
@@ -47,9 +44,6 @@ Below are helpful references.
 
 #### Design Patterns
   + https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
-  
-#### Databases
-  + https://www.youtube.com/playlist?list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y
 
 #### General Software Engineering
   + Programming Pearls by Jon Bentley
