@@ -15,10 +15,6 @@ Below are helpful references.
 
 ## Computer Science / Software Engineering
 
-#### Structure and Interpretation of Computer Programs
-  + https://www.youtube.com/playlist?list=PLE18841CABEA24090
-  + https://www.youtube.com/playlist?list=PL3E89002AA9B9879E
-
 #### Functional Programming
   + https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 
@@ -56,29 +52,32 @@ Below are helpful references.
 ## Economics
 
 #### General
-  + https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO
-  + https://www.youtube.com/user/HooverInstitution
+  + [Crash Course Economics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO)
+  + [Hoover Institution](https://www.youtube.com/user/HooverInstitution)
 
 <br/><br/>
 
 ## Design
 
 #### Podcasts
-  + https://www.highresolution.design/
+  + [High Resolution podcast](https://www.highresolution.design/)
   
 #### Methods
-  + https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez
-  + https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59
+  + [Story Maps](https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez)
+  + [Empathy Maps](https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59)
 
 <br/><br/>
 
 ## Misc
 
-#### Shenzhen: The Silicon Valley of Hardware (Documentary)
-  + https://www.youtube.com/watch?v=SGJ5cZnoodY
+#### Shenzhen: The Silicon Valley of Hardware
+  + [Documentary](https://www.youtube.com/watch?v=SGJ5cZnoodY)
 
 #### Writing
-  + https://medium.com/an-idea-for-you/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1#.u3u4bxr89
+  + [Writing Tips](https://medium.com/an-idea-for-you/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1#.u3u4bxr89)
 
 #### Sales Deck
-  + https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.pofkoarbr
+  + [Sales Deck](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.pofkoarbr)
+  
+#### Entrepreneurship
+  + [NPR's How I Built This podcast](http://www.npr.org/podcasts/510313/how-i-built-this)
