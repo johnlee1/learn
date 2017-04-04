@@ -40,6 +40,9 @@ Below are helpful references.
 
 #### Design Patterns
   + https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
+  
+#### LDA
+  + https://www.youtube.com/watch?v=3mHy4OSyRf0
 
 #### General Software Engineering
   + Programming Pearls by Jon Bentley
