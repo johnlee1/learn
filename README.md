@@ -45,12 +45,12 @@ Below are helpful references.
   + https://www.youtube.com/watch?v=3mHy4OSyRf0
 
 #### General Software Engineering
+  + http://codeschool.org/
   + Programming Pearls by Jon Bentley
   + The Mythical Man-Month by Fred Brooks
   + The Pragmatic Progammer by Andy Hunt and Dave Thomas
   + Cracking the Coding Interview by Gayle Laakmann McDowell
-  + http://codeschool.org/
-
+  
 <br/><br/>
 
 ## Economics
