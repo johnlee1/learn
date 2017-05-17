@@ -10,6 +10,8 @@ Below are helpful references.
 
 #### Linear Algebra
   + https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+#### Calculus
+  + https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
 <br/><br/>
 
