@@ -24,7 +24,7 @@ Shenzhen: The Silicon Valley of Hardware (2016) <br>
 
 ## Entrepreneurship
 [NPR's How I Built This (podcast)](http://www.npr.org/podcasts/510313/how-i-built-this) <br>
-[Building a Sales Deck (blog post)](https://themission.co/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
+[Building a Sales Deck (blog post)](https://themission.co/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) <br>
 The Lean Startup - Eric Ries
 
 ## Mathematics
