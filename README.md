@@ -30,6 +30,7 @@ Shenzhen: The Silicon Valley of Hardware (2016) <br>
 ## Entrepreneurship
 [NPR's How I Built This (podcast)](http://www.npr.org/podcasts/510313/how-i-built-this) <br>
 [Building a Sales Deck (blog post)](https://themission.co/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
+The Lean Startup - Eric Ries
 
 ## Mathematics
 [Essence of Linear Algebra (video series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br>
