@@ -1,10 +1,5 @@
 A compilation of resources for learning that I've found helpful. <br>
 
-## Biography
-Left - Jonathan Edwards <br>
-Amazing Grace - Eric Metaxas <br>
-Bonhoeffer - Eric Metaxas <br>
-
 ## Computer Science
 [Functional Programming (blog post)](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) <br>
 [Distributed Systems: Partition Tolerance (blog post)](https://codahale.com/you-cant-sacrifice-partition-tolerance/) <br>
@@ -53,17 +48,6 @@ Programming Pearls - Jon Bentley <br>
 The Mythical Man-Month - Fred Brooks <br>
 The Pragmatic Progammer - Andy Hunt and Dave Thomas <br>
 Cracking the Coding Interview - Gayle Laakmann McDowell
-
-## Theology
-Knowing Christ - Mark Jones <br>
-Mere Christianity - C. S. Lewis <br>
-Knowing God - J. I. Packer <br>
-Desiring God - John Piper <br>
-Radical - David Platt <br>
-The Things of Earth - Joe Rigney <br>
-Death in the City - Francis Schaeffer <br>
-Unto Death - Dalton Thomas <br>
-The Pursuit of God - A. W. Tozer
 
 ## Writing
 [Writing Tips (blog post)](https://medium.com/an-idea-for-you/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1#.u3u4bxr89)
