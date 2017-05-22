@@ -23,10 +23,10 @@ Cracking the Coding Interview - Gayle Laakmann McDowell
 ## Design
 [High Resolution (podcast)](https://www.highresolution.design/) <br>
 [Story Mapping (blog post)](https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez) <br>
-[Empathy Mapping (blog post)](https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59)
-Don't Make Me Think - Steve Krug
-Universal Principles of Design - William Lidwell
-Thinking with Type - Ellen Lupton
+[Empathy Mapping (blog post)](https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59) <br>
+Don't Make Me Think - Steve Krug <br>
+Universal Principles of Design - William Lidwell <br>
+Thinking with Type - Ellen Lupton <br>
 The Design of Everyday Things - Don Norman
 
 ## Design (Service Design)
