@@ -50,6 +50,10 @@ Shenzhen: The Silicon Valley of Hardware (2016) <br>
 [Building a Sales Deck (blog post)](https://themission.co/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) <br>
 The Lean Startup - Eric Ries
 
+## History
+Late Victorian Holocausts - Mike Davis <br>
+The Color of Law - Richard Rothstein
+
 ## Mathematics
 [Essence of Linear Algebra (video series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br>
 [Essence of Calculus (video series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
