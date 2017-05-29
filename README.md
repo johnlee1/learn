@@ -6,6 +6,7 @@ A compilation of resources for learning that I've found helpful. <br>
 [Distributed Systems: Fallacies of Distributed Computing (blog post)](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) <br>
 [Distributed Systems: General Notes (blog post)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) <br>
 [Distributed Systems: Overview (online book)](http://book.mixu.net/distsys/ebook.html)
+[Crash Course Computer Science (video series)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Computer Science (Software Engineering)
 [Devops Culture (blog post)](https://martinfowler.com/bliki/DevOpsCulture.html) <br>
