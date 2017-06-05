@@ -33,8 +33,8 @@ The Design of Everyday Things - Don Norman
 ## Design (Service Design)
 [Service and Infrastructure (opinion piece)](https://www.nytimes.com/2016/01/03/opinion/why-the-post-office-makes-america-great.html?_r=1) <br>
 [Designing for Service (article)](http://www.dubberly.com/wp-content/uploads/2013/08/Dubberly_Design-for-service.pdf) <br>
-Service Design: From Insight to Implementation - Andy Polaine, Lavrans Lovlie, Ben Reason <br>
 The Service Innovation Handbook - Lucy Kimbell
+Service Design: From Insight to Implementation - Andy Polaine, Lavrans Lovlie, Ben Reason <br>
 
 ## Documentary
 Born Into Brothels (2004) <br>
