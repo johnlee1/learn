@@ -16,7 +16,7 @@ A compilation of resources for learning that I've found helpful. <br>
 [Serverless Architecture (blog post)](https://martinfowler.com/articles/serverless.html) <br>
 [NoSql (video)](https://www.youtube.com/watch?v=qI_g07C_Q5I) <br>
 [LDA Topic Models (video)](https://www.youtube.com/watch?v=3mHy4OSyRf0) <br>
-[The Art of Making Software](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/) <br>
+[The Art of Making Software (blog post)](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/) <br>
 Programming Pearls - Jon Bentley <br>
 The Mythical Man-Month - Fred Brooks <br>
 The Pragmatic Progammer - Andy Hunt and Dave Thomas <br>
