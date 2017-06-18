@@ -1,10 +1,5 @@
 A compilation of resources for learning that I've found helpful. <br>
 
-## Biography
-Left - Jonathan Edwards  <br>
-Amazing Grace - Eric Metaxas <br>
-Bonhoeffer - Eric Metaxas 
-
 ## Computer Science
 [Functional Programming (blog post)](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) <br>
 [Crash Course Computer Science (video series)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
