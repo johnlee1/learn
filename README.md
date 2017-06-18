@@ -1,8 +1,17 @@
 A compilation of resources for learning that I've found helpful. <br>
 
+## Biography
+Left - Jonathan Edwards  <br>
+Amazing Grace - Eric Metaxas <br>
+Bonhoeffer - Eric Metaxas 
+
 ## Computer Science
 [Functional Programming (blog post)](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) <br>
 [Crash Course Computer Science (video series)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+## Computer Science (DevOps)
+[Devops Culture (blog post)](https://martinfowler.com/bliki/DevOpsCulture.html) <br>
+[SRE (online book)](https://landing.google.com/sre/book/index.html)
 
 ## Computer Science (Distributed Systems)
 [Distributed Systems: Partition Tolerance (blog post)](https://codahale.com/you-cant-sacrifice-partition-tolerance/) <br>
@@ -11,8 +20,6 @@ A compilation of resources for learning that I've found helpful. <br>
 [Distributed Systems: Overview (online book)](http://book.mixu.net/distsys/ebook.html) <br>
 
 ## Computer Science (Software Engineering)
-[Devops Culture (blog post)](https://martinfowler.com/bliki/DevOpsCulture.html) <br>
-[SRE (online book)](https://landing.google.com/sre/book/index.html) <br>
 [Javascript (online book)](https://github.com/getify/You-Dont-Know-JS) <br>
 [Event Loop (video)](https://www.youtube.com/watch?v=8aGhZQkoFbQ) <br>
 [Serverless Architecture (blog post)](https://martinfowler.com/articles/serverless.html) <br>
@@ -40,6 +47,10 @@ The Design of Everyday Things - Don Norman
 [Designing for Service (article)](http://www.dubberly.com/wp-content/uploads/2013/08/Dubberly_Design-for-service.pdf) <br>
 The Service Innovation Handbook - Lucy Kimbell <br>
 Service Design: From Insight to Implementation - Andy Polaine, Lavrans Lovlie, Ben Reason
+
+## Design (Urban Design)
+The Death and Life of Great American Cities - Jane Jacobs <br>
+The Image of the City - Kevin Lynch
 
 ## Documentary
 Born Into Brothels (2004) <br>
