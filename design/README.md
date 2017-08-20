@@ -5,7 +5,7 @@ Resources and References <br>
 [Story Mapping (blog post)](https://medium.com/design-story/story-map-3cc64033128e#.hxja25kez) <br>
 [Empathy Mapping (blog post)](https://medium.com/@boagworld/adapting-empathy-maps-for-ux-design-23893916dc3e#.6nborpf59) <br>
 [Empathy Mapping 2 (blog post)](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a) <br>
-[Another Lens Research Tool](https://airbnb.design/anotherlens/) <br>
+[Another Lens Research Tool (blog post)](https://airbnb.design/anotherlens/) <br>
 Don't Make Me Think - Steve Krug <br>
 Universal Principles of Design - William Lidwell <br>
 Thinking with Type - Ellen Lupton <br>
