@@ -1,7 +1,9 @@
 ## Date
 8/19/17
 
-## Task
+<br><br>
+
+## Task 1
 Sketch what your design process looks like - or how it might look. How do you get from starting with a design task to a solution?
 
 ## Solution
@@ -19,3 +21,11 @@ Creating a solution can be difficult because it involves going from an infinite 
 
 #### User-Centered Approach
 A user-centered approach explicitly and holisitcally considers usability goals, user characteristics, user environment, and how a user will consume a product. Some tools for designing with a user-centered approach include story mapping, empathy mapping, and user testing.
+
+<br><br>
+
+## Task 2
+Come up with three words that come into your mind when you think about design.
+
+## Solution
+problem-solving, structure, cool
