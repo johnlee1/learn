@@ -4,6 +4,14 @@
 <br><br>
 
 ## Task 1
+Describe your morning ritual.
+
+## Solution
+First I wake up, check the time, and use the bathroom. If I have time I'll eat breakfast, and then if I still have time I'll do some reading. Then I get changed, grab my keys, and go out the door.
+
+<br><br>
+
+## Task 2
 Sketch what your design process looks like - or how it might look. How do you get from starting with a design task to a solution?
 
 ## Solution
@@ -24,7 +32,7 @@ A user-centered approach explicitly and holisitcally considers usability goals, 
 
 <br><br>
 
-## Task 2
+## Task 3
 Come up with three words that come into your mind when you think about design.
 
 ## Solution
