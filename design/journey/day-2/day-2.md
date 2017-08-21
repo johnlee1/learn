@@ -1,8 +1,6 @@
 ## Date
 8/20/17
 
-<br><br>
-
 ## Source
 https://vimeo.com/204254753
 
