@@ -1,8 +1,6 @@
 ## Date
 8/19/17
 
-<br><br>
-
 ## Source
 https://courses.edx.org/courses/course-v1:DelftX+DDA691x+1T2017/course/
 Week 0
