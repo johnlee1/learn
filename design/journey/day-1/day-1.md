@@ -3,6 +3,10 @@
 
 <br><br>
 
+## Source
+https://courses.edx.org/courses/course-v1:DelftX+DDA691x+1T2017/course/
+Week 0
+
 ## Task 1
 Describe your morning ritual.
 
