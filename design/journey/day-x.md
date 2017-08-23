@@ -9,4 +9,4 @@ http://www.plusacumen.org/courses/introduction-human-centered-design
 * Human-centered design is a process that can be used across industries and sectors to approach any number of challenges--from product and service design to space or systems design, to name just a few.
 * The human-centered design process has 3 phases--Inspiration, Ideation and Implementation. In the Inspiration phase, you'll learn directly from the people you're designing for. In the Ideation phase, you'll make sense of what you learned, identify opportunities for design, and prototype possible solutions. And in the Implementation phase, you'll bring your solutions to life.
 
-<img src="https://github.com/johnlee1/learn/blob/master/design/journey/day-1/diagram-defining_a_problem.jpg?raw=true" height="175" />
+<img src="https://github.com/johnlee1/learn/blob/master/design/journey/day-4/diagram-phases-of-design.png?raw=true" height="400" />
