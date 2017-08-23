@@ -1,4 +1,4 @@
-Resources and References <br>
+# Resources and References
 
 ## Culture
 [Inclusive Work Culture (blog post)](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea)

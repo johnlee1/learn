@@ -33,3 +33,28 @@ Theology in a Christian context is a discipline of study that seeks to understan
 * a narrower sense of the word refers to those endeavors that treat the specifically doctrinal character of the Christian faith. biblical theology, historical theology, systematic theology, philosophical theology
 
 ### Biblical Theology
+* biblical theology is the theological content of the OT and NT
+* systematic theology is systemati biblical theology contemporized
+* biblical theology is the raw material with which systematic theology works
+
+### Historical Theology
+* historical theology studies the systematic theologies held and taught by various theologians throughout the history of the church
+* two majors way to organize historical theology
+    * synchronic approach (history of Christian thought): studying the theology of a given time with respect to several key areas of doctrine. thus, the theology of each successive period of time would be examined sequentially
+    * diachronic approach (history of doctrines): trace the history of thought regarding a given doctrine down through the periods of the church's life
+* historical theology makes us more self-conscious and self-critical, more aware of our own presuppositions. observing how culture influenced theological thinking in the past should call our attention to what is happening to us
+* historical theology teaches us way to do theology by studying how others have done it before us
+* historical theology may provide a means of evaluating a particular idea. ideas that seem so novel today have actually had precursors at earlier periods in the life of the church. history is theology's laboratory, in which it can assess the ideas that it espouses or considers espousing. if we closely examine some of our "new" ideas in the light of the history of the church, we will find that they are actually new forms of old conceptions
+
+### Philosophical Theology
+* there are three contributions different theologians believe philosophy may make to theology
+    * philosophy may supply content for theology
+    * philosophy may defend theology or establish its truth
+        * weighing the truth-claims advanced by theology and giving part of the basis for accepting the message
+    * philosophy may scrutinize its concepts and arguments
+        * major value of philosophy for theologian: scrutiny of the meaning of terms and ideas employed in the theologyical task, the criticizing of its arguments, and the sharpening of the message for clarity
+* Karl Barth reacted vigorously against the first of the three functions, and to a considerable extent against the second
+* third function is generally considered valid
+* Erickson believes philosophy, within somewhat restricted scope, performs the second function
+
+## The Need for Theology

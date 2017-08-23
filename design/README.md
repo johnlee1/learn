@@ -1,4 +1,4 @@
-Resources and References <br>
+# Resources and References
 
 ## Design
 [High Resolution (podcast)](https://www.highresolution.design/) <br>

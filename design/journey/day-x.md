@@ -1,5 +1,4 @@
 ## Date
-8/19/17
 
 ## Source
 http://www.plusacumen.org/courses/introduction-human-centered-design

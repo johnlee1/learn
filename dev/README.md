@@ -1,4 +1,4 @@
-Resources and References <br>
+# Resources and References
 
 ## Computer Science
 [Functional Programming (blog post)](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) <br>
