@@ -2,16 +2,6 @@
 8/20/17
 
 ## Source
-https://vimeo.com/204254753
-
-## Notes
-* Empathize - getting out and talking to users directly
-* Define - defining a problem statement from empathy work
-* Ideate - generating lots of new ideas about what you might want to do to solve that problem
-* Prototyping - building things to test your concepts
-* Testing - testing with users
-
-## Source
 https://courses.edx.org/courses/course-v1:DelftX+DDA691x+1T2017/course/
 Week 1
 
