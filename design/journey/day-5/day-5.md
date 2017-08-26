@@ -5,6 +5,8 @@
 https://www.udacity.com/course/product-design--ud509
 
 ## Notes
+
+### Ideation and Validation
 * User Research
     * first make a list of questions you are trying to answer
 * Market Demands and Trends
@@ -22,3 +24,66 @@ https://www.udacity.com/course/product-design--ud509
     * future press release - how would your product first appear in the news?
         * capture future vision
     * one page executive summary
+
+### UX/UI
+* the study of users, and their context and environment that they operate in, in order that we can design tools for them to achieve tasks that let them complete goals
+
+### Design Sprints
+* planning
+    * sprint master to lead. should identify challenge to be solved
+* understand
+    * clarity on the product, user needs, the market, and technical possibilities
+    * identify what is profitable, what is feasible, and what is desirable
+* define
+    * define product goals or features (positioning, user journey, metrics)
+* diverge
+    * create as many solutions as possible to your design challenge
+* decide
+    * deliberate, refine, choose
+* prototype
+    * create deliverables
+* validate
+    * test ideas with real users
+
+### Key Metrics
+
+#### Common Metrics
+* Net Promoter Score (NPS)
+    * ask users one question - on a scale of 1-10, how likely are you to recommend us to a friend
+    * 0-6 detractors, 7-8 passive, 9-10 promoters
+    * NPS = % promoters - % detractors
+* Click Through Rate (CTR)
+    * the percentage of people visiting a web page who access a hypertext link to a particular advertisement
+* Daily Active Users (DAU)
+* Weekly Active Users (WAU)
+* Monthly Active Users (MAU)
+* retention
+    * percentage of users you keep over a certain period of time
+* use metrics to determine what drives users back to the product
+
+#### Baseline Metrics
+* unique visitors
+* page views
+* session length
+* traffic sources
+
+#### Heart framework
+* happiness (satisfaction, NPS) - commonly found through user studies
+* engagement (user activity)
+* adoption (new users, usage)
+* retention
+* task success (time/efficiency, completed tasks, error rate)
+
+#### Goals, Signals, Metrics
+* define goals
+* determine signals to correspond to goals
+* define metrics
+
+#### Tools
+* google analytics
+* mixpanel
+* admob
+* qualtrics
+* survey monkey
+* google forms
+* optimizely
