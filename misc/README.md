@@ -22,10 +22,6 @@ The Lean Startup - Eric Ries
 Late Victorian Holocausts - Mike Davis <br>
 The Color of Law - Richard Rothstein
 
-## Mathematics
-[Essence of Linear Algebra (video series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <br>
-[Essence of Calculus (video series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 ## Poverty
 The Locust Effect - Victor Boutros, Gary Haugen <br>
 When Helping Hurts - Steve Corbett, Brian Fikkert <br>
