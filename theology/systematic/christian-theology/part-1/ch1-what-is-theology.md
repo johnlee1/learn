@@ -58,3 +58,34 @@ Theology in a Christian context is a discipline of study that seeks to understan
 * Erickson believes philosophy, within somewhat restricted scope, performs the second function
 
 ## The Need for Theology
+* theology is important because correct doctrinal beliefs are essential to the relationship between the believer and God
+* theology is necessary because truth and experience are related
+* theology is needful because of the large number of alternatives and challenges abroad at the present time
+
+## The Starting Point of Theology
+* instead of beginning either with God, the object of knowledge, or the Bible, the means of knowledge, we may begin with both. rather than attempting to prove one of the other, we may presuppose both as part of a basic thesis, then proceed to develop the knowledge that flows from this thesis and assess the evidence for its truth
+* both God and his self-revelation are presupposed together, or perhaps we might think of the self-revealing God as a single presupposition. the starting point is - "There exists one Triune, loving, all-powerful, holy, all-knowing God who has revealed himself in nature, history, and human personality, and in those acts and words that are now preserved in the canonical Scriptures of the Old and New Testaments"
+* from this basic postulate we may proceed to elaborate an entire theological system by unfolding the contents of the Scriptures. this system in turn will function as a worldview, that can be tested for truth. while no specific part is proved antecedently to the rest, the system as a whole can be verified/validated
+
+## Theology as Science
+* theology has a definite suject matter to ivnestigate, primarily that which God has revealed about Himself
+* theology deals with objective matters
+* theology has a definite methodology for investigating its subject matter
+* theology has a method for verifying its propositions
+* there is coherence among the propositions of its subject matter
+* theology is subject to vertain basic principles or axioms
+* theology involves communicability
+* theology employes methods employed by other speciric disciplines. it shows a particular affinity for the methodology of history/philosophy
+* theology shares some subject matter with other disciplines
+* theology has its own unique status
+    * deals with unique objects or with common objects in a unique way
+    * considers humanity in a different light than other sciences
+    * considers what God has revealed about humankind; thus it has data of its own
+    * considers humans in relationship to God; thus it treats the human within a frame of reference not examined by any of the other disciplines
+
+## Why the Bible?
+* christianity is a movement that follows Jesus Christ
+* we look to him to state what is to be believed and what is to be done
+* we turn to the gospels for reports of Jesus's life and teaching
+* those books that Jesus endorsed (OT) must be regarded as further sources for christianity
+* if Jesus taught that additional truth was to be revealed, that also is to be examined

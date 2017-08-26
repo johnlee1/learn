@@ -1,0 +1,19 @@
+## Summary
+Christian theology today is not done in the context of the great theological systems of the past such as the work of Augustine, Aquinas, Luther, and Calvin. The acceleration of change, the explosion of information, and the atomizing of information are a few of the complicating factors that make doing theology more difficult in today's world than was true in the slower-paced previous centuries. Theology is not done in a haphazard manner, however. There are several suggested steps to follow toward achieving a definite methodology. Theological statements carry varying degrees of authority. SOome are rooted in explicit statements of Scripture. Others are more speculative and hypothetical in nature.
+
+## The Theological Scene Today
+* characteristics of the present-day theological scene
+    * tendency for theologies to have brief life spans
+    * the demise of great schools of theology, definite movements, or clusterings of adherents around a given set of teachings. whereas in earlier times there were distinctive theologies that had worked out their view of virtually every topic, and one could therefore find consistent answers to each particular question by accepting a system, this is no longer the case. there are only sketches rather than detailed blueprints of theology. where there are thorough systems of theology, for the most part these basically follow the pattern of earlier systems
+    * there do not seem to be the theological giants such as were abroad even a generation ago
+    * theology is not being done in a period characterized by a "knowledge" explosion". the amount of information is growing so rapidly that mastery of a large area of thought is becoming increasingly difficult. biblical/theological knowledge is much broader than it once was. the result has been a much greater degree of specialization than previously required
+    * there is a tendency for those holding extreme positions on the theological spectrum to be more outspoken in their advocacy of their positions than those of a middle stance
+    * increased influence of the behavioral sciences
+    * globalization is evident
+    * in Anglo-American theology, a realignment of theological groups seem to be occurring. there is a tendency of some who term themselves "postconservative evangelicals" to find more in common with postliberals than with the traditional evangelicals, and to direct more of their criticism at those to the right of them than those to the left. to some extent, the division is in terms of the degree of affinity for postmodernism
+    * denominationalism, which is on the decline in American clture, is also a much less significant factor in theological work
+* beware of too close an identification with any current mood in culture. the rapid change in theologies are but a reflection of the rapid changes in culture in general
+* theology seeks to strike something of a balance between the timeless essence of hte doctrines and a statement of them geared to the contemporary audience
+* the orthodox form of theology is not the theology of any particular period, not even a fairly recent one
+* a degree of inclusiveness if both possible and desirable
+* importance of maintaing a degree of independence in one's approach in doing theology. there is a tendency to simply adopt a theological giant's treatment of a particular doctrine. but the result of unreserved commitment to another person's system of thought is that one becomes a disciple in the worst sense of that term, merely repeating what has been learned from the master. creative and critical indepndent thinking ceases
