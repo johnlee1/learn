@@ -17,3 +17,46 @@ Christian theology today is not done in the context of the great theological sys
 * the orthodox form of theology is not the theology of any particular period, not even a fairly recent one
 * a degree of inclusiveness if both possible and desirable
 * importance of maintaing a degree of independence in one's approach in doing theology. there is a tendency to simply adopt a theological giant's treatment of a particular doctrine. but the result of unreserved commitment to another person's system of thought is that one becomes a disciple in the worst sense of that term, merely repeating what has been learned from the master. creative and critical indepndent thinking ceases
+
+## The Process of Doing Theology
+* biblical theology is developed before systematic theology, so that the sequence is exegesis-biblical theology-systematic theology. we do not move directly from exegesis to systematic theology
+* collection of the biblical materials
+    * gather all the relevant biblical passages o nteh doctrine being investigated
+    * thorough/consistent utilization of the very best and most appropriate tools and methods for getting at the meaning of these passages
+    * theologians should self-consciously scrutinize their tools/methods and carefully determine their starting point (presuppositions)
+    * make broadest possible inquiry into doctrinal content
+    * view biblical material against the historical and cultural background of its time
+* unification of the biblical materials
+    * develop some unifying statements on the doctrinal theme being investigated
+    * the OT and NT are to be approached with the expectation that a unity between the two exists
+* analysis of the meaning of biblical teachings
+    * ask "what is really meant by this?"
+* examination of historical treatments
+    * we may be able to detect within the many variations the common element that constitutes the essence of the doctrine, although we must be careful not to assume that the lowest common denominator is necessarily the essence
+* consultation of other cultural perspectives
+    * interaction with other cultural perspectives will help us distinguish the essence of the biblical teacing from one cultural expression of it
+* identification of the essence of the doctrine
+    * distinguish the permanent, unvarying content of the doctrine from the cultural vehicle in which it is expressed
+    * separating the messsage to the Corinthians as 1st century Christians living in Corinth from the message to them as CHristians. the latter will be the abiding truth of Paul's teaching, which in an appropraite form of expression applies to all Christians at all times and places, as contrasted with what was pertinent in that restricted situation
+    * in the bible, permanent truths are often expressed in the form of a particular application to a specific situation
+* illumination from extrabiblical sources
+    * behavioral sciences, psychology, etc
+* contemporary expression of the doctrine
+* development of a central interpretive motif
+    * each theologican must decide on a particular theme that is the most significant and helpful in approaching theology as a whole (e.g. salvation by grace through faith, sovereignty of God, love of GOd, already but not yet, community, etc)
+    * there are values in formulating a central motif. it will lend unity to the system, and thus power to the communication of it. a speech should have a central proposition or thesis by which the whole can be grasped, and in terms of which the whole can be understood. a central motif in one's theology will give a basic emphasis or thrust to one's ministry
+    * the central motif is a perspective from which the data of theology can be viewed. the perspective does not affect what the data are, but it does give a particular angle or cast to the way in which they are viewed
+* stratification of the topics
+    * range the topics on the basis of their relative importance. outline our theology, assigning a ROman numeral to major topics, a capital letter to subtopics, an Arabic numeral to topics subordinate to the subtopics, and so on. 
+
+## Degrees of Authority of Theological Statements
+* direct statements of Scripture are to be accorded to the greatest weight. to the degree that they acfurately represent what the Bible teaches, they have the status of a direct word from God
+* direct implications of Scripture must also be given high priority. they are to be regarded as slightly less authoritative than direct statements, because the introduction of an additional step (logical inference) carries with it the possibility of interpretational error
+* probable implications of Scripture, that is, inferences that are drawn in cases where one of the assumptions or premises is only probable, are somewhat less authoritative than direct implications
+* inductive conclusions from Scripture vary in their degree of authority. inductive investigation gives only probabilities. the certainty of its conclusions increases as the proportion between the number of references actually considered and the total number of pertinent references that could conceivably be considered increases
+* conclusions inferred from the general revelation, which is less particularlized and less explicit than the special revelation, must, accordingly, always be subject to the clearer and more explicit statements of the Bible
+* outright speculations, which frequently include hypotheses based on a single statement or hint in Scripture, or derived from somewhat obscure or unclear parts of the Bible, may also be stated and utilized by the theologians
+* the theologian will want to employ all of the legitimate material available, giving it in each case neither more nor less credence than is appropriate in view of hte nature of its sources
+
+## Induction, Deduction, and Adduction
+* there cannot be a completely straight-line or mechanical process of formulating the doctrine. there are aspects in which theology resembles art more than science. some anomalies will always remain, and some insights emerge without a clear and obvious aconnection with the data. elements of imagination and creativity are involved. 

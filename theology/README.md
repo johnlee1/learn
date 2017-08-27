@@ -6,6 +6,7 @@
 * Bonhoeffer - Eric Metaxas
 
 ## Books
+* The Gospel of Christ Crucified - John Harrigan
 * Knowing Christ - Mark Jones
 * Mere Christianity - C. S. Lewis
 * Knowing God - J. I. Packer
