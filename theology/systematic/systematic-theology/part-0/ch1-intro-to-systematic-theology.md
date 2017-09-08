@@ -1,0 +1,3 @@
+* systematic theology is any study that anwers this question, "What does the whole Bible teach us today?" about any given topic. this definition indicates that systematic theology involves collecting and understanding all the relevant passages in the Bible on various topics and then summarizing their teachings clearly so taht we know what to believe about each topic
+* a doctrine is what the whole Bible teachs us today about some particular topic
+* christian ethics is any study that answers the question, "What does God require us to do and what attitudes does he require us to have today?" with regard to any situation
