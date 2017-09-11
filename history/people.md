@@ -16,3 +16,12 @@
 
 ## Sigmund Freud (1856–1939)
 * explained all human behavior in light of sexual energy, repression, and unconscious forces
+
+## Auguste Comte (1798–1857)
+* French philosopher who founded the discipline of praxeology[5] and the doctrine of positivism
+
+## Thomas Kuhn (1922–1996)
+* an American physicist, historian and philosopher of science whose controversial 1962 book The Structure of Scientific Revolutions was influential in both academic and popular circles, introducing the term paradigm shift, which has since become an English-language idiom
+* Kuhn made several notable claims concerning the progress of scientific knowledge: that scientific fields undergo periodic "paradigm shifts" rather than solely progressing in a linear and continuous way, and that these paradigm shifts open up new approaches to understanding what scientists would never have considered valid before; and that the notion of scientific truth, at any given moment, cannot be established solely by objective criteria but is defined by a consensus of a scientific community. Competing paradigms are frequently incommensurable; that is, they are competing and irreconcilable accounts of reality. Thus, our comprehension of science can never rely wholly upon "objectivity" alone. Science must account for subjective perspectives as well, since _all objective conclusions are ultimately founded upon the subjective conditioning/worldview of its researchers and participants_
+* science is subjective (postmodernism)
+* scientists bring own agendas/presuppositions to the subject of study

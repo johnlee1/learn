@@ -1,5 +1,9 @@
 # Resources and References
 
+## Apologetics
+* Reasonable Faith - William Lane Craig
+* Reason for God - Tim Keller
+
 ## Biography
 * Left - Jonathan Edwards 
 * Amazing Grace - Eric Metaxas 
@@ -16,3 +20,7 @@
 * Death in the City - Francis Schaeffer
 * Unto Death - Dalton Thomas
 * The Pursuit of God - A. W. Tozer
+
+## Systematic Theology
+* Christian Theology - Millard J. Erickson
+* No One Like Him - John Feinberg

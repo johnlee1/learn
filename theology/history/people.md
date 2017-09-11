@@ -1,5 +1,8 @@
 ## Tertullian (155-240)
+## Arius (250 or 256–336)
 ## Augustine (354–430)
+## Anselm of Canterbury (1033–1109)
+## Thomas Aquinas (1225-1274)
 ## Martin Luther (1483-1546)
 ## Ignatius (1491-1556)
 ## John Calvin (1509-1564)
@@ -10,6 +13,9 @@
 ## Hudson Taylor (1832–1905)
 ## Charles Haddon Spurgeon (1834–1892) 
 ## Amy Carmichael (1867–1951)
+## Karl Barth (1886–1968)
 ## William Borden (1887–1913)
 * No Reserves. No Retreats. No Regrets.
+## C. S. Lewis (1898–1963)
+## Dietrich Bonhoeffer (1906–1945)
 ## Ralph Winter (1924–2009)
