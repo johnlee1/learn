@@ -14,7 +14,7 @@ The world of the Bible and this present world are very different. It is importan
 
 ### Acts of God
 * answer given in the latter half of the 20th century
-* the permanent element of CHristianity is certain unique historical events or mighty acts of God, such as the exodus and the "Christ event". it is the acts of God, not biblical accounts, which are the permanent and authoritative element in Christianity
+* the permanent element of Christianity is certain unique historical events or mighty acts of God, such as the exodus and the "Christ event". it is the acts of God, not biblical accounts, which are the permanent and authoritative element in Christianity
 
 ### Experiences
 * abiding experiences are the essence, the permanent factor, of Christianity. while doctrinal beliefs may change, people of all periods have the same experiences

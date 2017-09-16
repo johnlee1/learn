@@ -80,7 +80,7 @@ Modernism, the view that dominated thinking from the 18th century through the la
 
 ## Faith, Doctrine, and Theology
 * "three-tiered model" describes different aspects of ethics and morality
-    * on the first tier are the actors, those engaged i nthe practice of a given activity
+    * on the first tier are the actors, those engaged in the practice of a given activity
     * on the second level are the critics, who evaluate the actions of those on the first level
     * finally, there are the philosophers, who debate the criteria of criticism empoyed by the critics
 * on the bottom level are believing and practicing Christians. their faith is in God, through Jesus Christ, and they are engaged in living the Christian life. doctrines, or beliefs about the nature of God and his relationship to the world, are embedded in their experience and activity, whether they can enunciate these consciously or not. typically, this first-level activity cannot be done effectively until the knowledge becomes incorporated into the person's very nature. the very fact that this knowledge or belief is not consciously reflected on may not cause some people not to recognize that it is there, but it is. so doctrine is present at the most basic level, even though it may be implicit. here is where all Christians must live
