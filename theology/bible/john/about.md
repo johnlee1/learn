@@ -30,7 +30,10 @@ Jesus is the promised Messiah and the Son of God. By believing in Jesus, people 
     * 1:1-5 essence as the Word
         * related to God
         * related to Creation
+            * Jesus is the agent of all creation
         * related to Humanity
+            * the life of creation (origin)
+            * the light of revelation (salvation)
     * 1:6-13 expression to the world
         * the witness
         * the work
@@ -103,3 +106,32 @@ Jesus is the promised Messiah and the Son of God. By believing in Jesus, people 
 * John recorded a selected number of signs and sayings of Jesus in order to persuade his audience that Jesus was the Messiah, the Son of God, who could give them eternal life if they would belief in him
 * John 20:30-31
     * Now Jesus did many other signs in the presence of the disciples, which are not written in this book; but these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
+
+## The Prologue of John
+* John recorded the prologue to lay the theological foundation for his Gospel in which he presented Jesus as the Logos who was sent from God as the light and life for men
+* the Word which had been existed since the beginning of time, the Word in time became flesh, because nobody had seen God
+    * there was a need for God to reveal himself
+    * the Word became flesh because no one has seen God
+* in the beginning was the Word
+    * eternality
+    * pre-existence
+* the word was with God
+    * equality
+    * personality
+* the word was God
+    * essence
+    * deity
+* the Word was with God, we saw his glory, and in reality it was because he was God
+* "the word was God"
+    * can't put definite article in front of God because it destroys the trinity, limits God to Jesus
+    * don't need definite article to have it definite
+    * no article when it is without question referring to the Father (see other verses in chapter 1)
+* "he has made him known"
+    * Jesus is the exegesis of the Father
+* light is not simply the absence of darkness, but spiritually it is the enemy of darkness
+
+## Four Chapter Ones - the deity of Christ
+* John 1
+* Romans 1 - when you look at creation, you see Jesus in action as the creator. the confrontation every person has with creation is a confrontation with Christ
+* Colossians 1
+* Hebrews 1
