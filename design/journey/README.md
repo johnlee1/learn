@@ -1,1 +1,0 @@
-"Journey" is where I document notes and small projects as I learn about design.

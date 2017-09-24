@@ -73,5 +73,5 @@ Capture findings.
 ## Notes
 * bias towards being human-centered. spending time with the people who are impacted by what you do. gain insights and have empathy.
 * attitude of prototyping everything. getting ideas out there early to test what is working and what is not.
-* attitude of collaboration. involve people who have diverse perspectives
+* attitude of collaboration. involve people who have diverse perspectives.
 * bias towards action.
