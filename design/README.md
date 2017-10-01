@@ -18,5 +18,6 @@ The Service Innovation Handbook - Lucy Kimbell <br>
 Service Design: From Insight to Implementation - Andy Polaine, Lavrans Lovlie, Ben Reason
 
 ## Design (Urban Design)
+[Berlin - Sponge City (video)](https://www.youtube.com/watch?v=uWjGGvY65jk)
 The Death and Life of Great American Cities - Jane Jacobs <br>
-The Image of the City - Kevin Lynch
+The Image of the City - Kevin Lynch <br>
