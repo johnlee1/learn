@@ -25,7 +25,6 @@
 * Angels and Demons
 * Biblical Interpretation
 * Church History
- * Book about compassion, our responsibility, and the right way to help people
 
 # Resources and References
 
