@@ -32,4 +32,27 @@
     * "God is love" does not refer toa nything that can be verified by empirical observation - some disregard as meaningless, some say they express a speaker's emotional reaction or intentions to act in a certain way ("I like God" or "I think God is nice"), some say they express the utterer's intention to act a certain way ("God is love" = speaker intends to act in a loving way)
 
 ### Naturalism
+* basic ontological doctrine of modernity is the mechanistic doctrine of anture
+* with the rise of Newtonian science coupled w rationalism and empiricism in epsitemology, the world was thought of as a gigantic machine. this mechanistic view saw the physical world as composed of inanimate, insentient atoms which interact with one another by deterministic impact
+* only truths available about our world come through the natural sciences. religion, theology, ethics, and metaphysics tell us nothing more about the world. explain everything that happens in our world in terms of natural processes
+* led to gradual secularization of society. religion and theology could no longer be seen as serious intellectual disciplines and instead were marginalized and privatized
+
+### Human Freedom and Individuality
+* emphasis on the individual, individual rights and freedom
+* throwing off of all authorities/tradition in favor of the individual
+* each person is encouraged to decide on the basis of argument and evidence what is right to believe and do
+* politically, emphasis on individual freedom gave rise to modern democracies
+* fostered an attitude of self-sufficiency and self-reliance, isolation from community, and a belief that one may believe and do whatever one wants, so long as no one else's freedom and righst are abridged
+
+### The Goodness of Human Nature
+* problems of modern culture do not stem from moral or spiritual inadequacies. basic human nature is good, and people are rational enough to see hwhat is in their best interests. basic human goodness remains and can be tapped into through education
+
+### Science and Progress
+* prior to the modern era there was a fatalistic acceptance of anture and history as reflecting GOd's immutable ordering of the world. in contrast, the modern spirit promised to liberate humanity from fate and all other restraints
+* modern world is built on and relies heavily on science and technology. the predominant attitude toward these developments is that they show human culture as continually progressing. science/tech are seen by many as the saviors of society, having the capacity to lead us to a utopia
+
+## What is Postmodernity?
+* the themes have been "brewing" for some time in the 20th century, but not until the late 1960s and after have these themes become more conscious and explicit
+
+### Postmodern Epistemology
 * 

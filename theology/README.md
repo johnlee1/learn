@@ -8,24 +8,6 @@
 * Dallas Theological Seminary
     * The Gospel of John (online course)
 
-## Self-Study Seminary Education
-* Doctrine of God
-* Doctrine of Scripture
-* Doctrine of Man
-* Doctrine of Christ
-* Doctrine of Holy Spirit
-* Soteriology
-* Ecclesiology
-* Eschatology
-* Old Testament
-* New Testament
-* Ethics
-* Apologetics
-* OT usage in NT
-* Angels and Demons
-* Biblical Interpretation
-* Church History
-
 # Resources and References
 
 ## Apologetics
