@@ -6,7 +6,7 @@
         * Christian Theology - Millard J. Erickson
         * No One Like Him - John Feinberg
 * Dallas Theological Seminary
-    * The Gospel of John (online course)
+    * The Gospel of John (Fall 2017, online course)
 
 # Resources and References
 
