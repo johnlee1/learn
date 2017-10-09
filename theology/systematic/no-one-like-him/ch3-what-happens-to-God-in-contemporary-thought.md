@@ -149,3 +149,18 @@
 * believed that traditional Christian faith is a flight from life, an evasion of suffering, a refusal to bear the burden and anguish of the human condition
 
 ### Contemporary Theologies in the Postmodern Mindset
+
+#### George Lindbeck's Threefold Categorization of Theologies
+* 1) emphasizes cognitive aspects of religions and treats doctrines as assertions of fact about objective realities
+* 2) stresses the experiential-expressive aspects of religion where the focus of religion is the experiences of the human subject
+* 3) cultural-linguistic - religions are thought of as different idioms for construing reality, expressing expdrience, and ordering life
+
+#### Theology of Hope
+* arose in the 1960s with a strongly political emphasis
+* preaching to 20th century people had to change to emphasize the church as active in shaping society rather than shaping individual lives. this emphasis on converting political and social structures to bring in the kingdom made Theology of Hope a political theology
+* futuristic emphasis, theology done as eschatology. christianity as eschatology is hope, forward looking and forward moving. hence, it also revolutionizes and transforms the present
+* the question of God's existence, like all questions, is open and will be solved in the future
+* God with future as his essential nature
+* in light of God's promises for the future and his power to transform it, christians called to social activism. cannot be satisfied with social and political status quo, but must proclaim a new order that is coming
+
+#### Liberation Theology
