@@ -164,3 +164,47 @@
 * in light of God's promises for the future and his power to transform it, christians called to social activism. cannot be satisfied with social and political status quo, but must proclaim a new order that is coming
 
 #### Liberation Theology
+* pleads for freeing the oppressed
+* doing theology as praxis and thereby deliberately wed social ethics to theology
+* theology must be critical reflection on our actions and our own basic principles
+* analyzes the social and political conditions of the society, and it finds great oppression and exploitation of the poor. rejects developmentalism in favor of liberation
+    * liberation involves three interdependent levels:
+        * expresses the hopes of oppressed peoples and social classes as they reflect on how the economic, social, and political processes put them at odds with wealthy nations and classes in society - socio-political aspect
+        * liberating the human psyche in such a way that a new person is created, and with these new people a new society - psyhological/humanistic aspect
+        * theological facet of liberation based on biblical sources. in scripture, Christ is presented as the liberator, the one who saves from sin, which is the ultimate root of all disruption of friendship and all injustice and oppression
+* as liberation theologians read Scripture, they find God on the side of hte poor and oppressed. so we too as Christians must work to overcome injustice and oppression. GOd is known through inter-human justice, but when justice does not exist, God is unknown and absent
+* GOd is not an abstract metaphysical one focuses on what he is in himself. nor is God depicted as impassive, unrelated, or uninvolved in human affairs. rather, God is a God of action, a liberator, and a God who calls us to action
+
+#### Feminist Theologies
+* christianity is a sexist religion that legitimizes patriarchal structures in society
+* Roman Catholic feminist Elizabeth Johnson's She Who Is - doesn't reject Christianity, but stays within the tradition, embraces it, and reforms it
+* language about God speaks about the divine in images taken equivalently from the experience of women, men, and the world of nature
+    * resources for this theology:
+        * women's interpreted experience
+        * Scripture and its trajectories
+            * scripture contains much male imagery, but this is only problematic if one takes the imagery literally and considers the bible as divinely inspired and inerrant. adopting the "hermeneutics of suspcision" that other postmoderns apply to Scripture and all other cultural texts, we must ask of each biblical text, to whose benefit? with this question the text deconstructs before us as we realize that it was constructed by males in power who put it together to legitimize their continued control
+            * three major biblical symbols that have feminist overtones/implications:
+                * Spirit/Shekinah
+                    * Spirit is the most immanent member of the Godhead and the Spirit's actions have affinity to feminist values - freely moving, life-giving, nonviolent power that connects, renews, and blesses. Spirit's activities: vivifying, renewing and empowering, gracing
+                    * leads to three insights important for feminist theology: the transcendent God's immanence, a divine passion for liberation; and the constitutive nature of relation
+                * Wisdom/Sophia
+                    * Sophia becomes concretely present in Jesus. Jesus was inclusive in his relations with other humans and with God. Christ does the following: preaching, ingathering, confronting (all of which given a feminist twist); dying and rising. the whole Christ - males and females make up the body of Christ together; Christ is truly God and truly human, but the point of his humanity is not his gender, but that he is one with humanity (both men and women); Christ as the Wisdom of God. thinking of Christ in wisdom categories also emphasizes the following themes: relation to the whole cosmos; belief in a global, ecumenical perspective respectful of other religious paths; by becoming one with humanity in incarnation and suffering, Sophia, whose paths are justice and peace, shows that God's passion is aimed at lifting oppression and establishing right relations
+                * mother
+                    * Mother-Sophia. unoriginate (beginningless) origin, and given this, women as mothers offer the most apt way to speak of Mother-Sophia. we must think of God using the imagery of motherhood
+                    * mothering the universe, and establishing the mercy of justice wherein justice and compassion are juxtaposed
+        * classical theology
+    * trinity - social communitarian view in which all members are coequal and mutually related
+    * God's essence as relation - relation within the Godhead and with the world. God is totally alive and the source of all living things
+    * God as suffering, portrayed as compassion poured out. divine impassibility is thoroughly rejected
+
+#### New Age Theology
+* six main themes:
+    * all is one, there is a basic unity to everything - monism - everything is interrelated, interdependent, and interpenetrating. whatever exists is part of a continuous reality that has no boundaries and no divisions. perceived differences between a tree, an apple, and a dog, and a person are only apparent, not real. since all things are one, this also means that there is no difference between good and evil, for they are one and the same
+    * everything is one, but what is that one thing? all is God - everything partakes of the one divine essence. pantheism. the idea of a personal GOd is abandoned infavor of an impersonal energy, force, or consciousness
+    * humans are God
+    * if everything is One and everything is God, why don't we know ourselves as God and see the unity among all things? the reason is ignorance. we are content with the everyday notions of human limitaiton and finitude. we need to be enlightened to our true identity. we need a change in consciousness. this can happen through sports, in the scientist's laboratory, contact with a UFO/extraterrestrial, spontaneously, through disciplined practice in meditation, yoga, consciousness-raising technique, chanting, dancing, tripping their way into altered states of awareness, self-hypnotism, internal visualization, biofeedback, sexual act
+    * all religions are one. though exeternals differ, essence is the same and is based on the same experience of the oneness of all things
+    * cosmic evolutionary optimism - optimism/hope for a better future
+
+#### Process Theology
+* 
