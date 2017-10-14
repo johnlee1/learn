@@ -207,4 +207,27 @@
     * cosmic evolutionary optimism - optimism/hope for a better future
 
 #### Process Theology
-* 
+* God is dipolar. he has a primordial, conceptual pole and a consequent, physical pole. the former is all the possibilities that actual entities can become, while the latter is the world, God's body, which is the progressive actualization of various of those possibilities
+* because God is so immanent and connected to the world, he grows and changes as we do. he feels our pains and joys, and not only identifies with our sorrows but actually suffers along with us. as intimately connected to us, his knowledge is also limited and it grows with every moment that passes
+* process theists believe that this God more accurately fits the biblical account of God than does the classical God
+
+#### Other Postmodern Theologies
+* liberationist variety
+* restorationist/conservative postmodernism - critiques modern society with its consumerism, technological threat to human existence on this planet, and fragmentation of community. return to very traditional notions of God, but also seeks a repudiation of the social and cultural aspects of the fragmenting modern mindset in favor of a more postmodern, communal vision of society
+* deconstructionism:
+    * we are all a product of our cultures and linguistic communities. hence, we see things and present things from our own perspectives. one result of this perspectivalism is a recognition that there is no all-encompassing narrative that can deciide for us once and for all what is true and what is false
+    * we dare not absolutize any text, including Scripture, for each text reflects the culture and thinking of hte times when it was written. instead we must use the "hermeneutics of suspcision" as we read. when we do this, we come to see that the text is usually a product of those in power, who used these texts to legitimize their continued control of power and suppression of those who didn't fit the ruling class
+    * allow "others," those at the boundaries of life, who have been marginalized in favor of the dominating traditional narratives that excluded them, to be heard and valued
+    * there is no truth. the death of God means absolute relativism: there is no eternal truth, but only everlasting flux
+    * with the disappearance of God also comes the disappearance of self. the enclosed, centered, isolated self (typical of modernity) was actually created in the image of hte enclosed, centered, isolated God to traditional theism. but once the notion of God is thrown out altogether, so is this notion of the self. instead of being completely independent of relations, the self is seen as thoroughly relational. the postmodern subject is primordially relational; it is constituted by its relations. rather than in any way being responsible for its relationships, it is a mere function of the intersection of impersonal structures
+    * also eliminated is any translinguistic referent for linguistic signs. signs refer to other signs; they are not interpretations of some "real thing" beyond language. this view stems from skepticism about our abilityu to see the world as it is. since all experience is interpreted through the grid of our culture-linguistic framework, we cannot be sure that our language really points to anything other than more language
+    * without God, there can be notion of history as a directed process. the world is beginningless and has no end toward which it moves. history is a random sequence of meaningless occurerences. the postmodern person has no aim whatsoever, but is called to a life of erring, which means to wander aimlessly and unprofitably
+    * removing the distinction between ought and is - living beyond good and evil - leads to absolute nihilism, which involves the denial of all meaning, all purpose, all moral and aesthetic norms. rather than suffering these losses passively, it actively and willingly embraces nihilism and thereby overcomes it
+* constructionary/revisionary - construct a postmodern worldview through a revision of modern premises and traditional concepts
+
+#### John Hick's "The Real"
+* ultimate reality (the Real) is beyond comprehension and inspection. we have God only as we experience and understand him
+* the Real has been mediated through various means, including the natural world, to cultures at different times and places in history. each society conceptualizes its own notion of ultimate reality in the form of the particular god or gods worshiped in that society. all of these conceptions in all religions are human attempts to articulate human experience and understanding of the ultimate reality
+* the Real does exist, but there is little we can say about the Real in itself
+* God is both transcendent and immanent
+* no religion is better or worse than any other. all point ot the same thing, the Real. which God you worship and which religion you folow is solely a function of your time and place in culture and history, but all roads lead to the same God. hence, there is no reason to evangelize people from other religions, for all of us actually worship the same God, and all will be saved. religious exclusivism is unnecessary

@@ -87,4 +87,71 @@
 * sophisticated and interesting pieces of philosophical reasoning, regardless of their accuracy or inaccuracy. even convinced atheistic philosophers agree that the ontological argument is extremely important philosophically because of what it teaches us about topics such as the nature of necessity
 
 ## The Reality of God
-* 
+
+### God is Real
+* God exists outside the mind. we can speak of his nature and existence not merely as concepts, but as descriptions of a real being
+
+### God is a Being
+* God is a being, not being-itself, the ground of being, the power of being, or the structure of being
+* God is distinct from creation
+* since scripture claims that no God and nothing else is identical to the true and living God (hence, it is impossible to represent him through any image), it is safe to say that the biblical God is neither the God of pantheism nor the GOd of panentheism
+
+## God as a Perfect, Necessary, and Infinite Being
+
+### A Perfect Being
+* perfect being theology informs us that God must have all perfections a divine being can have (and each to the highest degree), but that does not tellus the list of characteristics God actually has. it is here that we must supplement perfect being theology with creation theology and biblical teaching in order to get as full-orbed a concept of God's being as possible
+
+### A Necessary Being
+* two meanings of necessary:
+    * true for all possible worlds. a possible world is a complete sequence of persons, objects, events, and actions throughout the whole history of that world from beginning to end. philosophers often hold that there is an infinite number of possible worlds, though only one is actual
+        * any attribute God has in a given possible world is part of his essential nature
+        * he exists in every possible world
+    * as opposed to contingent. something contingent doesn't have to exist, but it can. as contingent, it is brought into and maintained in existence by something else. moreover, contingent things can cease to exist. in contrast, necessary beings depend on nothing for their existence; they neither come into nor go out of existence
+* scripture clearly affirms that God has always existed and always will. Jesus says that the Father has life within himself, and has given to the SOn to have life in himself as well. Scripture emphatically proclaims God as the creator of all things, but it never speaks of God as created or as a creature. these biblical ideas taken together lead to God is a necessary being, not contingent
+* as to God being necessary in the sense of existing inall possible worlds, scripture never directly says this of him. scripture says that nothing was made without his agency, and it is reasonable to infer from such verses that the writers believe that GOd is not only the creator, but also the only one with power to create anyting. if so, he exists for this possible world, and it is hard to imagine how any other possible world could become actual without God creating it. so it is hard to imagine God as absent from any possible world. what scripture does say about GOd as the sole person with power to create suggests that it isn't inconsistent with scripture to say that God is necessary in this sense
+
+### An Infinite Being
+* there are no limitations on God, except the laws of logic and his other attributes
+* we must understand God's infinity or limitlessness in a qualitative sense, not a quantitative sense. to say that God is infinite in love, justice, power, wisdom, or knowledge is not to say that he has an infinite amount of these qualities. instead, it means that his attributes are qualitatively unlimited and thus make him a qualitatively different kind of being than anything else in the universe
+    * for example GOd's power is not hte sum total of all the power there is and could be. instead, as omnipotent, he has the kind of power which allows him to do anything that is doable in conjunction with the laws of logic and the particulars of his character. to say that God is unlimited in knowledge and power to think does not mean that his mind is the sum total of all existing minds plus all possible minds. it means that there are no limitations to his cognitive powers. as a result, he knows all true propositions, though not because he has more mind quantitatively and hence has a big enough mind to store all theat informaiton. rather, the mind he has functions so well that it is capable of knowing all things, and knowing them at once
+
+## God as Spirit
+* material things are extended and bounded things. we can observe where one material object ends and another begins. material things don't think
+* in contrast, immaterial things are not made of matter, are not extended, and have no physical boundaries. the basic characteristic of immaterial objects is consciousness or cognition, i.e., immaterial things are thinking things
+* human nature has traditionally been understood as a combination of a material thing and an immaterial substance. this mind-body substance dualism has been with us at least since the French philosopher REne Descartes. to date no one has offered an entirely satisfactory explanation for how thinking things that are not extended or bounded causally interact with material things that have those characteristics but do not think. hence especially in the 20th century many opted for a materialist view of mind, denying altogether the existence of immaterial substances
+* traditionally, Jewish and Christian thinkers have maintained that the God of scripture is an immaterial being, pure spirit
+* John 4 - Jesus says God is spirit
+* God revealing his presence on various occasions portrayed in a physical or material way. moreover, scripture often speaks of God as if he has material parts. theologians repeatedly call such language anthropomorphic
+* Luke 24 - spirit does not have flesh and bones - spirit can be seen
+* spirit must be invisible because immaterical contain no matter
+* 1 Tim 1:17 - God is invisible
+* although God's essential nature is spirit, that does not preclude him from making his presence known through some physical phenomenon that manifests his presence to those who see or hear it
+
+## Implications of God as Spirit
+* the basic characteristics of immaterial things is that they think. he reveals information about himself, he deliberates and chooses a plan of action, and he knows all things. his intellect is of the highest order
+* God is pure spirit in light of his invisibility
+* incorruptible and immortal. incorruptible means that his being cannot at all decay or deteriorate. immortal means he doesn't die. this is because he is immaterial
+* living. immaterial part of human nature that brings it to life. only when the spirit enters our body do we come alive. whether or not one entirely agrees, it is true that Scripture pictures God as living
+* divine simplicity means that God is an uncompounded being and does not consist of parts
+
+## God as Person/Personal
+* the question of what it means to be a human person is a notoriously difficult philosophical issue
+* person - as that term is typically used, it at least means that the individual can interact rationally with his or her environment
+* as some theologians have argued, to qualify as a person, one's reasoning abilities must be of the sort that allow the individual to be self-conscious and self-determining
+    * self-conscious: humans not only experience pain but also know that they have a body distinct from other things and that their body is in pain. moreover, they can compare this sensation with other sensations they have had and understand that there is a continuous consciousness which possessed both the earlier and later sensations
+    * self-determining: ability to make decisions and carry them out. self-determination involves having the intellectual capacity to consider and weigh alternative courses of action, plus the use of one's mental faculties to make decisions in accord with one's desires, not as a result of being forced to act by another
+    * animals don't seem to have these
+* personal - relatedness and involvement with others
+* God is both a person and a personal being (as defined above)
+* scripture agrees with this:
+    * self-consciousness:
+        * God is capable of conscious rational thought, is thoroiughly self-conscious
+        * God shows his self-awareness by telling his people that there is no God like him
+        * on various occasions God expresses his emotions or speaks of his intention to act in accord with those emotions. he says this of his anger, his jealousy, his compassion and mercy, and the like. such passages indicate God's awareness either of his current mental state at the time of the utterance or of his intention to act in accord with his emotions, but that is impossible unless he is conscious of himself and his own character traits
+        * all scripture is the result of God's breath. that is, he has revealed it; he has spoken it all. as we read scripture, we find much information about God's character and action. how could God know this information if he were not conscious of himself as a distinct being?
+        * divine self-consciousness is a logical corollary of divine omniscience. in knowing everything that is knowable, God must know himself and everything about himself
+    * self-determination:
+        * not only can he choose as he pleases, but he also has power to do whatever he chooses. if God decides to do something, no one can stop him. works all things according to the counsel of his will. God's decisions are based solely on his own purposes and desires, and his purposes and desires are based on no one and nothing other than himself. God is no robot; he has the power of self-determination
+    * personal:
+        * hears and answers prayer. comforts and gives strength and help to those who suffer and mourn. judges the wicked. blesses the righteous. loves us. sent his Son into the world to die for us
+* God is a relational God, and if so, then he is personal in the sense of being involved inour world and related to its inhabitants
