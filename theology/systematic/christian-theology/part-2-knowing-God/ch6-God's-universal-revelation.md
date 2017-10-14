@@ -78,3 +78,35 @@ THe study of God's revelation of himself to humanity has been classified in two 
 ## Differing Assessments of the Value of General Revelation
 
 ### Natural Theology
+* it is actually possible to gain some true knowledge of God from these spheres - in other words, to construct a theology apart from the bible
+* assumptions:
+    * there is an objective, valid, and rational general revelation - that God actually has made himself known in nature and that patterns of meaning are objectively present - independently of whether anyone perceives, understands, and accepts this revelation. truth about God is actually present within the creation, not projected upon it by a believer who already knows God from other sources, such as the bible. assumes that nature is basically intact: that it has not been substantially distorted by anything that has occurred since the creation. in short, the world we find about us is basically the world as it came from God's creative hand, and as it was intended to be
+    * the integrity of the person perceiving and learning from the creation. neither humanity's natural limitations nor the effects of sin and the fall prevent humans from recognizing and correctly interpreting the Creator's handiwork
+    * there is congruity between the human mind and the creation about us. the mind's coherence with the world order enables inferences from the data it perceives. the validity of hte laws of logic is also assumed. such logical principles as the law of identity, the law of contradiction, and the law of excluded middle are not merely abstract mental constructs, but are true of the world. avoid paradoxes and logical contradictions, considering them something to be removed by a more complete logical scrutiny of the issues under consideration
+* the core of natural theology is the idea that it is possible, without a prior commitment of faith to the beliefs of Christianity, and without relying on any special authority, such as an institution (the church) or a document (the Bible), to come to a genuine knowledge of God on the basis of reason alone
+* Thomas Aquinas - all truth belong to one of two realms. the lower realm is the realm of nature, the higher is the realm of grace. while the claims pertaining to the upper realm must be accepted on authority, those in the lower realm may be known by reason
+* in Thomas's time the church was coming into contact with heterogeneous cultures. it was of no value to quote one's authority (bible) to these persons. if any real imapct was to be made on these persons, it would be necessary to enter some neutral arena where no special authority need to be appealed to, adn to settle the matter on terms accepted by all rational persons
+* Thomas contended that he could prove certain beliefs by pure reason
+    * cosmological proof - in the realm of our experience, everything that we know is caused by something else. there cannot, however, be an infinite regress of causes, for if that were the case, the whole series of causes would never have begun. there must, therefore, be some uncaused or necessary being
+    * teoleological argument - various parts of the universe exhibits behavior that is adaptive or that helps bring about desiriable ends. when such behavior is displayed by human beings, we recognize that they have consciously willed and directed themselves toward that end. some objects in our universe, however, cannot have done any purposive planning. certainly rocks and atmosphere haev not chosen to be as they are. their ordering according to a purpose or design must have come from somewhere else
+* anthropological argument
+    * Kant's formulation - we all possess a moral impulse or a categorical imperative. following this impulse by behaving morally is not very well rewarded within this life, however. why should one be moral then? would it not be wiser to act selfishly at times? there must be some basis for ethics and morality, some sort of reward, which in turn involves several factors - immortality and an undying soul, a coming time of judgement, and a God who establishes and supports values, and who rewards good and punishes evil. thus, the moral order requires the existence of God
+* ontological argument
+    * Anselm's formulation - God is the greatest of all conceivable beings. now a being that does not exist cannot be the greatest of all conceivable beings, for the nonexistent being of our conceptions would be greater if it had the attribute of existence. therefore, by definition, God must exist. 
+    * Kant's response: existence is not an attribute. a being that exists does not have some attribute or quality lacked by a similar being that does not exist. if i imagine a dollar and compare it with a real dollar, there is no difference in their essence, in what they are. the only difference is in whether they are. there is a logical difference between the sentence "God is good" and the sentence "God is." the former predicates some quality of God; the latter is a statement of existence. the point here is that existence is not a necessary predicate of the greatest of all conceivable beings. such a being may exist, or it may not. in either case its essence is the same
+
+### The Denial of General Revelation
+* in the first half of 20th century, Karl Barth rejected both natural theology and general revelation. Barth had liberal education but witnessed political developments arising from liberal's theological conclusions affirming general revelation and natural theology
+* Barth's assumptions:
+    * God's revelation is exclusively in Jesus Christ
+    * Genuine revelation is always responded to positively rather than being ignored or rejected
+    * Knowledge of God is always redemptive or salvific in nature
+
+### Evaluation of These Two Views
+* natural theology
+    * modern criticisms of cosmological argument and teological argument
+    * even if the arguments succeed in proving the existence of a divine being, there is still a problem if this is to be considered a proof for the christian God
+* rejection of general revelation
+    * ignores plain reading of scripture - Psalm 19
+
+### General Revelation, but without Natural Theology
