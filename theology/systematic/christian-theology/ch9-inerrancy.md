@@ -1,0 +1,2 @@
+## Defining Inerrancy
+* the bible, when correctly interpreted in light of the level to which culture and the means of communication had developed at the time it was written, and in view of the purposes for which it was given, is fully truthful in all that it affirms
