@@ -1,0 +1,6 @@
+## Summary
+As creator and source of all truth, God has the right to command belief and obedience from all human beings. Although in some cases God exercises authority directly, he normally uses other means. One way he accomplishes this is through other human beings. God communicates his message to human beings. He has the right to command human actions and speech. When appropriately interpreted, this occurs through the Bible. Some persons have attempted to separate the illuminating work of the Holy Spirit and the objective content of Scripture. Rightly understood, the Holy Spirit illuminates, convcts, and applies the teaching of the Bible to both the human understanding and the heart. All Scripture is historically authoritative; that is, it tells us correctly what God expected or required from specific persons at particular times and places. Some of Scripture is also normatively authoritative. THat means that those parts of Scripture are to be applied and obeyed in the same fashion in which they were originally applied when given.
+
+## Definition of Authority
+* by the authority of the Bible we mean that the Bible, as the expression of God's will to us, possesses the right supremely to define what we are to believe and how we are to live
+* authority = right to command belief and/or action
