@@ -4,7 +4,7 @@
 
 ### Human Consciousness ("The Subjective Turn")
 * era prior to Descartes was one of tradition and authority
-* God is no longer the "starting point" of philosophy. Human consciousnessness is, and along with it comes epistemology as the center-piece of philosophy
+* God is no longer the "starting point" of philosophy. Human consciousness is, and along with it comes epistemology as the center-piece of philosophy
 * it is up to human consciousness to structure and certify whatever is true
 * transferred to man the function of God as the source of reality and intelligibility
 * human consciousness takes the role of sitting in judgement of what is true in regard to reality
@@ -31,7 +31,7 @@
     * "God is love" does not refer toa nything that can be verified by empirical observation - some disregard as meaningless, some say they express a speaker's emotional reaction or intentions to act in a certain way ("I like God" or "I think God is nice"), some say they express the utterer's intention to act a certain way ("God is love" = speaker intends to act in a loving way)
 
 ### Naturalism
-* basic ontological doctrine of modernity is the mechanistic doctrine of anture
+* basic ontological doctrine of modernity is the mechanistic doctrine of nature
 * with the rise of Newtonian science coupled w rationalism and empiricism in epsitemology, the world was thought of as a gigantic machine. this mechanistic view saw the physical world as composed of inanimate, insentient atoms which interact with one another by deterministic impact
 * only truths available about our world come through the natural sciences. religion, theology, ethics, and metaphysics tell us nothing more about the world. explain everything that happens in our world in terms of natural processes
 * led to gradual secularization of society. religion and theology could no longer be seen as serious intellectual disciplines and instead were marginalized and privatized
@@ -41,13 +41,13 @@
 * throwing off of all authorities/tradition in favor of the individual
 * each person is encouraged to decide on the basis of argument and evidence what is right to believe and do
 * politically, emphasis on individual freedom gave rise to modern democracies
-* fostered an attitude of self-sufficiency and self-reliance, isolation from community, and a belief that one may believe and do whatever one wants, so long as no one else's freedom and righst are abridged
+* fostered an attitude of self-sufficiency and self-reliance, isolation from community, and a belief that one may believe and do whatever one wants, so long as no one else's freedom and rights are abridged
 
 ### The Goodness of Human Nature
-* problems of modern culture do not stem from moral or spiritual inadequacies. basic human nature is good, and people are rational enough to see hwhat is in their best interests. basic human goodness remains and can be tapped into through education
+* problems of modern culture do not stem from moral or spiritual inadequacies. basic human nature is good, and people are rational enough to see what is in their best interests. basic human goodness remains and can be tapped into through education
 
 ### Science and Progress
-* prior to the modern era there was a fatalistic acceptance of anture and history as reflecting GOd's immutable ordering of the world. in contrast, the modern spirit promised to liberate humanity from fate and all other restraints
+* prior to the modern era there was a fatalistic acceptance of nature and history as reflecting God's immutable ordering of the world. in contrast, the modern spirit promised to liberate humanity from fate and all other restraints
 * modern world is built on and relies heavily on science and technology. the predominant attitude toward these developments is that they show human culture as continually progressing. science/tech are seen by many as the saviors of society, having the capacity to lead us to a utopia
 
 ## What is Postmodernity?
@@ -124,13 +124,13 @@
 
 #### Karl Barth (1886-1968)
 * revelation does not come in propositions - but in a person. the content of revelation is God himself given to man in a nonverbal, personal encounter with Jesus
-* the God who has revealed himself is the deus absconditus. this is the God to whom there is no way and no bridge, of whom we could not say or have to say one single word had he not, of his own initiative, met us at deus revelatus. the God who is revealed is not actually the deus absconditus, the transcendent God. rather the hidden God has taken on a form in order to reveal himself to us. GOd's doing this is his distinguishing himself from himself, a being of God in a mode of existence, not subordinate as compared with his first hidden mode of being as God, but just different. the fact that God takes on this mode of existence to reveal himself doesn't mean that this mode fully reveals God. further, this mode of revelation is not the subject of revelation, becuase that would mean that God could be unveiled to us after all and that there was no longer any need of God (the hidden God) for his revelation after all. the transcendent God is important, even thoughwe cannot know him in his transcendence 
+* the God who has revealed himself is the deus absconditus. this is the God to whom there is no way and no bridge, of whom we could not say or have to say one single word had he not, of his own initiative, met us at deus revelatus. the God who is revealed is not actually the deus absconditus, the transcendent God. rather the hidden God has taken on a form in order to reveal himself to us. GOd's doing this is his distinguishing himself from himself, a being of God in a mode of existence, not subordinate as compared with his first hidden mode of being as God but just different. the fact that God takes on this mode of existence to reveal himself doesn't mean that this mode fully reveals God. further, this mode of revelation is not the subject of revelation, becuase that would mean that God could be unveiled to us after all and that there was no longer any need of God (the hidden God) for his revelation after all. the transcendent God is important, even thoughwe cannot know him in his transcendence 
     * orthodoxy maintains that God can be known in his transcendent character
     * radical theologians say that the only GOd we can know is the deus revelatus in the form of Christ. he is the subject of revelation and does unveil the transcendent; hence the transcendent God is no longer needed
     * Barth takes a mediating position between orthodoy and the more radical theologians
 
 #### Paul Tillich (1886-1965)
-* distinguishes between teh sense and reference of "God"
+* distinguishes between the sense and reference of "God"
     * the sense is that God is the name for what concerns us ultimately. what is of ultimate concern to humans must be that which is determinative of our being or nonbeing
     * as to the reference of "God" - Tillich says it is being-itself. being-itself is not just a being alongside of other beings, for beings are still subject to finitude. rather, God is the ground of being, the power of being, the structure of being. this is all we can say about God without lapsing into symbolism and metaphor
 * this is a strange notion of God. on one hand, it pictures him as very immanent to all things. but there is no hint that he is personal, a God with whom we can establish any kind of relationship. moreover, Tillich's claim that there is nothing we can literally say about God other than that he is being-itself gives his God a certain remoteness and distance

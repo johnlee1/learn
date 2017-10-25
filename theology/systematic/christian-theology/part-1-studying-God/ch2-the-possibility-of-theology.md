@@ -5,15 +5,15 @@ Modernism, the view that dominated thinking from the 18th century through the la
 
 ### Modernism
 * modern period, 18-20th centuries, belief in human rationality and the rationality of the universe
-* events are expalined in terms of the social realities that caused them, rather than in terms of the purpose of a transcendent God
+* events are explained in terms of the social realities that caused them, rather than in terms of the purpose of a transcendent God
 * classic foundationalism, a common characteristic of modern throught - the basing of one's thinking on some indubitable or obvious principles, from which reasoning can then proceed
-* modernism has been essentially humanistic. the human being is the center fo reality, and in a sense everything exists for the sake of the human
+* modernism has been essentially humanistic. the human being is the center of reality, and in a sense everything exists for the sake of the human
 * together with humanism is naturalism. paralleling the shift from God to humanity is the shift from anything heavenly or ethereal to the earth
 * the scientific method has increasingly come to be considered virtually the only means of investigating truth
 * nature is considered dynamic, and the sole and sufficient cause and explanation of all that occurs
 * determinism is a strong element in modernism. there are certain regularities within reality, which can be discovered and formulated into laws
 * scientific method also tends to be practiced in a reductionistic fashion. objects of study are regarded as "nothing but" something more basic
-* there is a strong tendency towards foundationalism. the attempt tog round knowledge on some sure first principles
+* there is a strong tendency towards foundationalism. the attempt to ground knowledge on some sure first principles
 * there is a commitment to metaphysical realism. the objects of scientific inquiry are external to the consciousness of the knower, existing independently of any perception of them
 * representative view of language. language refers to real objects that are extralinguistic
 * correspondence theory of truth. truth is a measure of propositions and is present in those propositions, which correctly correspond to the states of affairs that they claim to present

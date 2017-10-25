@@ -34,7 +34,7 @@ Theology in a Christian context is a discipline of study that seeks to understan
 
 ### Biblical Theology
 * biblical theology is the theological content of the OT and NT
-* systematic theology is systemati biblical theology contemporized
+* systematic theology is systematic biblical theology contemporized
 * biblical theology is the raw material with which systematic theology works
 
 ### Historical Theology
