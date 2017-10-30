@@ -5,8 +5,6 @@
     * ST-5101 Introduction to Theology (Fall 2017)
         * Christian Theology - Millard J. Erickson
         * No One Like Him - John Feinberg
-* Dallas Theological Seminary
-    * The Gospel of John (Fall 2017, online course)
 
 # Resources and References
 
