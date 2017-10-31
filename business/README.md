@@ -6,7 +6,7 @@
 
 ## Entrepreneurship
 [NPR's How I Built This (podcast)](http://www.npr.org/podcasts/510313/how-i-built-this) <br>
-[Building a Sales Deck (blog post)](https://themission.co/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) <br>
+[Building a Sales Deck (blog post)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) <br>
 The Lean Startup - Eric Ries
 
 ## Marketing
