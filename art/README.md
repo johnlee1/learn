@@ -5,6 +5,9 @@
 * Fluidic https://vimeo.com/63338826
 * Parametric Spaces https://vimeo.com/69356542
 
+## Books
+* Picture This - Molly Bang
+
 ## Augmented Reality
 * Colored Drawings https://www.youtube.com/watch?v=SWzurBQ81CM
 
