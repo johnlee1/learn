@@ -36,6 +36,7 @@
 ## Heinrich Bullinger (1504–1575)
 ## Conrad Grebel (1498–1526)
 ## John Knox (1513–1572)
+## Martin Luther (1483–1546)
 
 # Topics
 
