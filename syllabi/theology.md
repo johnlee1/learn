@@ -1,8 +1,10 @@
 # So You Want To Learn Theology?
 
-##
-bible study, discussion, reading bible, praying, reading articles, sermons
-devotion and worship
+## Introduction
+
+This is my outline for what one would need to learn in order to really understand theology. All of the topics mentioned are core topics that would be covered in any typical seminary education.
+
+Everyone learns differently, but what I see as the essentials to learning theology are..
 
 ## Church History
 
@@ -11,12 +13,12 @@ devotion and worship
 ## New Testament
 
 ## Doctrine of God
-#### No One Like Him - John Feinberg
-#### Knowledge of the Holy - A. W. Tozer
-#### Knowing God - J. I. Packer
+* No One Like Him - John Feinberg
+* Knowing God - J. I. Packer
+* Knowledge of the Holy - A. W. Tozer
 
 ## Christology
-#### Knowing Christ - Mark Jones
+* Knowing Christ - Mark Jones
 
 ## Pneumatology
 
@@ -27,4 +29,4 @@ devotion and worship
 ## Eschatology
 
 ## Apologetics
-#### The Reason for God - Tim Keller
+* The Reason for God - Tim Keller
