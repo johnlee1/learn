@@ -12,7 +12,7 @@
 * disciple of Plato
 
 ## Immanuel Kant (1724–1804)
-* German
+* German philosopher
 
 ## Charles Darwin (1809–1882)
 * accounted for everything in terms of biological evolution
