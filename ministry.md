@@ -39,6 +39,7 @@
 * Reformed Theological Seminary
 * Southeastern Baptist Theological Seminary
 * Southern Baptist Theological Seminary
+* The Master's Seminary
 * Westminster Theological Seminary
 
 #### Social Justice / Social Impact
