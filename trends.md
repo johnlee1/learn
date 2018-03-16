@@ -1,3 +1,7 @@
+### Design
+* Design Thinking
+
+### Technology
 * Artificial Intelligence
     * Natural Language Processing / Translation
     * Recognition
