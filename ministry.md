@@ -1,19 +1,17 @@
-# Resources and References
-
-## Bible Translation
+#### Bible Translation
 * SIL International
 * Wycliffe
 
-## Church Planing
+#### Church Planing
 * __Acts 29__
 
-## Content
+#### Content
 * __Desiring God__
 
-## Design
+#### Design
 * There Is Something More
 
-## Missions
+#### Missions
 * __Frontiers__
 * __HeartCry Missionary Society__
 * Joshua Project
@@ -21,16 +19,16 @@
 * OMF International
 * Trans World Radio
 
-## Pro-Life
+#### Pro-Life
 * Alliance Defending Freedom
 * ERLC
 * Human Coalition
 * Women's Choice Network
 
-## Publishing
+#### Publishing
 * Crossway
 
-## Seminary
+#### Seminary
 * Bethlehem College and Seminary
 * Gordon-Conwell Theological Seminary
 * Reformed Theological Seminary
@@ -38,7 +36,7 @@
 * Southern Baptist Theological Seminary
 * Westminster Theological Seminary
 
-## Social Justice / Social Impact
+#### Social Justice / Social Impact
 * Engineering Ministries International
 * Hope International
 * International Justice Mission
@@ -49,6 +47,6 @@
 * World Relief
 * World Vision
 
-## Theological Training
+#### Theological Training
 * __Crosslands__
 * __BibleMesh__
