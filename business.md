@@ -6,8 +6,9 @@
 * [Economics Book](http://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 
 ## Entrepreneurship
-* [NPR's How I Built This (podcast)](http://www.npr.org/podcasts/510313/how-i-built-this) <br>
-* [Building a Sales Deck (blog post)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) <br>
+* [Leading with Inspiration (talk)](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
+* [NPR's How I Built This (podcast)](http://www.npr.org/podcasts/510313/how-i-built-this)
+* [Building a Sales Deck (blog post)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 * The Lean Startup - Eric Ries
 
 ## Marketing
