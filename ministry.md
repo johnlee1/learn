@@ -17,7 +17,12 @@
 * Joshua Project
 * __International Missions Board__
 * OMF International
+* Pioneers
 * Trans World Radio
+
+#### Persecution
+* Open Doors
+* Voice of the Martyrs
 
 #### Pro-Life
 * Alliance Defending Freedom
@@ -40,6 +45,8 @@
 * Engineering Ministries International
 * Hope International
 * International Justice Mission
+* Jill's House
+* Joni and Friends
 * Prison Fellowship
 * Love Justice International
 * Show Hope
