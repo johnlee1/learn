@@ -1,11 +1,13 @@
 # Resources and References
 
 ## Modern Christians
+* Thabiti Anyabwile
 * Rosaria Butterfield
 * Francis Chan
 * Matt Chandler
 * J. D. Greear
 * Mark Jones
+* Russell Moore
 * J. I. Packer
 * John Piper
 * David Platt
