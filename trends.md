@@ -3,6 +3,7 @@
 
 ### Technology
 * Artificial Intelligence
+    * Cloud
     * Natural Language Processing / Translation
     * Recognition
 * Autonomous Vehicles
