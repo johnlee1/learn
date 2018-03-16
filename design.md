@@ -7,6 +7,7 @@
 [Empathy Mapping 2 (blog post)](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a) <br>
 [Another Lens Research Tool (blog post)](https://airbnb.design/anotherlens/) <br>
 [UX Mapping](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/) <br>
+[Design Articles](https://search.firstround.com/lists/julie-zhou-vp-of-design-at-facebook) <br>
 Don't Make Me Think - Steve Krug <br>
 Universal Principles of Design - William Lidwell <br>
 Thinking with Type - Ellen Lupton <br>
