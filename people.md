@@ -17,9 +17,12 @@
 
 ## Modern Thinkers
 * Jonathan Haidt
+* Charlie Kirk
+* Candace Owens
 * Jonathan Pageau
 * Camille Paglia
 * Jordan Peterson
+* Dennis Prager
 * Robert Sapolsky
 * Ben Shapiro
 * Thomas Sowell
