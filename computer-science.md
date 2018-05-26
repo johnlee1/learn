@@ -14,6 +14,9 @@
 [Distributed Systems: General Notes (blog post)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) <br>
 [Distributed Systems: Overview (online book)](http://book.mixu.net/distsys/ebook.html) <br>
 
+## Computer Science (Machine Learning)
+[Intro to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
 ## Computer Science (Software Engineering)
 [Javascript (online book)](https://github.com/getify/You-Dont-Know-JS) <br>
 [Event Loop (video)](https://www.youtube.com/watch?v=8aGhZQkoFbQ) <br>
