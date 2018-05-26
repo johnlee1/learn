@@ -21,6 +21,7 @@
 [NoSql (video)](https://www.youtube.com/watch?v=qI_g07C_Q5I) <br>
 [LDA Topic Models (video)](https://www.youtube.com/watch?v=3mHy4OSyRf0) <br>
 [The Art of Making Software (blog post)](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/) <br>
+[Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)<br>
 The Mythical Man-Month - Fred Brooks <br>
 The Pragmatic Progammer - Andy Hunt and Dave Thomas <br>
 Cracking the Coding Interview - Gayle Laakmann McDowell
